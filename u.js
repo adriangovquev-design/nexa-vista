@@ -1,5 +1,5 @@
 /* Cargador fijo: siempre usa la última versión de nexa-vista (no hay que cambiar nunca esta línea) */
-(function(){var R='adriangovquev-design/nexa-vista',FB='40fc6cce81',Q=[];window.NXU=function(){Q.push(arguments)};
+(function(){var R='adriangovquev-design/nexa-vista',FB='e893095a51',Q=[];window.NXU=function(){Q.push(arguments)};
 function ok(s){return /^[0-9a-f]{7,40}$/.test(s)}
 function go(sha){var e=document.createElement('script');e.src='https://cdn.jsdelivr.net/gh/'+R+'@'+sha+'/cargar.js';e.onload=function(){Q.forEach(function(a){window.NXL.apply(null,a)});window.NXU=function(){window.NXL.apply(null,arguments)}};e.onerror=function(){if(sha!==FB)go(FB)};document.head.appendChild(e)}
 function f(u,p){return fetch(u,{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(t){var s=p(t);if(!ok(s))throw 0;return s})}

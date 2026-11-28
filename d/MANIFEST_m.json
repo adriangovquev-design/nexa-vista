@@ -1,0 +1,2572 @@
+{
+"000": {
+"antes": "a98ab42c517f2a47de5b84cf3606e7c2a945fa0aa106eb45def5d223c2c01c7f",
+"despues": "fc3028b1e39f31ffc19f0c61a636541c2c545731ecd49cefbd9f8874242a670d",
+"jugadores": 15
+},
+"001": {
+"antes": "4f15d55158242671fbe7a016578f8cb944aaf0df3ab686d14d9699a1a344d46b",
+"despues": "73a622bae98b331ab0920873156cc5acd3a3c191211a40b4e888237d82d4e166",
+"jugadores": 12
+},
+"002": {
+"antes": "7a7164dc4421d9a2160a98a12612b28944ec5a09cb8b5c57c2bf7839e55e1093",
+"despues": "dae34c3dfd36a6d883890ad6c3e20838ef5df694757228d30c48d3241d0a2bb0",
+"jugadores": 9
+},
+"003": {
+"antes": "c3ff3a1e850db7bd12d6d365452edfe43c64b44476244efa22cd38559d4409ae",
+"despues": "b054dc996dd278422cb23cb5247722978de8e5154fc5d3f3bab1514bc1f7168d",
+"jugadores": 10
+},
+"004": {
+"antes": "a95feb7c270ed0feb77bb1ac36b66be52a5a7e75af93f92207c2acfadc2b3302",
+"despues": "e69ece32c0b1e2e63bcff60b5b39646bd5d337dc2be55478620c95840bf2aa55",
+"jugadores": 14
+},
+"005": {
+"antes": "7c60e46e5387efaf1f62063ec44d3fbb61746978e5e909852c7e0639c934a6c3",
+"despues": "270bee977d85425e72806e5ce858b2c3732cd9b5f1b47f73e8c82cdaf44fb39f",
+"jugadores": 11
+},
+"006": {
+"antes": "7338226c5a00dafb5e6e90d433440657e892c64eee8567d1372b6e9bfb43e187",
+"despues": "58b4fb9f3db2835f42e3119a40c616853c257d4f6bc0d84e897604f45fbc72d4",
+"jugadores": 17
+},
+"007": {
+"antes": "4e3fa95b95f395345fb462ab207c10042245007ea6b0ff85c42d8128c799f3ec",
+"despues": "26da59e66783b76d0b2989598cebf81cd0b3274aad7ef92446b0cdac9b17395e",
+"jugadores": 10
+},
+"008": {
+"antes": "d69d317d3b67283c165312c5b10d321271580ad1e7ac1ea212ba96fc57dc6d55",
+"despues": "36f6e229b45f922bfd94235afb58fda9664ccef017c6d2ec18cb21ab6be85d81",
+"jugadores": 17
+},
+"009": {
+"antes": "25412592346f189499a386b6877ab1ef8d96589509b85c694c8a2e6e85c05d9c",
+"despues": "58a7e5883874e173183ca7f652300b5b82e60a15a244c2d766bac64f59f0457b",
+"jugadores": 10
+},
+"010": {
+"antes": "fa1568ae1cf36e088e022a3b4f87769b44bdd6d84253dd6e3e0ae25f732c111e",
+"despues": "b21d0ebb6ad555987840c204ae44fcb6a6a53a7eae746b8cbee21d2ca443c087",
+"jugadores": 10
+},
+"011": {
+"antes": "f185538ac66b23b1086fffb7a66c2cc8b3873458bee4ace97386381847d22f68",
+"despues": "3e5b9b04a14d7324d0ee49343c04b7a5144bb5f85798c512d707ffa1804ce894",
+"jugadores": 18
+},
+"012": {
+"antes": "da95b101431f3a0ce075cdb1d607c051c8f8305e8d512a5ce664f5deeffe9311",
+"despues": "e55c7ba020503231c9b123219a5359e19468ec4201c1e37d3b235d55ef3dc418",
+"jugadores": 14
+},
+"013": {
+"antes": "54362d1a47534c1ec4bf6249792e24aac641001255db171b365ea795092b3676",
+"despues": "f651ba0570e681d44daa0d2e37bccf5d7776ad04898959f10470ebe81e187525",
+"jugadores": 20
+},
+"014": {
+"antes": "a073270eef0d37ce7308b10b826fac6b3f49a7d3ba7396d5b53baab826b9fca7",
+"despues": "80c84960af2848481185ff572a076efb7c6ddeda4717c16b0f37c636d4163458",
+"jugadores": 12
+},
+"015": {
+"antes": "d788772ac95c5b8d93127cd4797440e751c3a429ce33315f455de45ee0cb41a7",
+"despues": "b0c4ab0a5ff203fbca3fa6d36a9d74ef874fed5ca91fd2687510db50ceb8790c",
+"jugadores": 13
+},
+"016": {
+"antes": "727ff387e970d3d47a3a715d0d08c8b2762d74d942e0bd732bfd5764b2191a55",
+"despues": "e7c57638012f48c21e8f805a4686cdd37bbb12901d7aa0a34ced4f3fe36e0ee3",
+"jugadores": 14
+},
+"017": {
+"antes": "04487d444b748a0a0cfbb988f6337e0de7a00079af32853dddf685b3bcfe7a74",
+"despues": "62136d9594af9378af63b5d5b616d1ffcbcd66a6c5ee6cbfc8312363e128a7e7",
+"jugadores": 11
+},
+"018": {
+"antes": "191f4f4ed56e12fd6fe29480f864cd1c357277208fc128259bf57dceaf5d0eea",
+"despues": "40782484d01290e73ce5d5c35fa87992584c99da3eb846ee0fb0fff7568618aa",
+"jugadores": 13
+},
+"019": {
+"antes": "122b48b3cfb44915fea3cab1af6b4631c802d09a2a5a89dadecdfe2f7e131ff4",
+"despues": "3bf71ed82cfa0605135f6cc4d9af6af3822156a00625ef28840c57bacb14b4d2",
+"jugadores": 11
+},
+"020": {
+"antes": "456584d2da0f3fa682964c74a8a81759947490d070c92b527b4fab04c9a42c03",
+"despues": "0cbcd2e644d391e8b4bde718395f401e3f97c1d2b43e0a99f33717931239ce99",
+"jugadores": 14
+},
+"021": {
+"antes": "1fe8cc74710b3ba490d2cc3a48417c326ca66481f35ecc14e7795b43444e1d6b",
+"despues": "7fb31864fc73e1ac60d7c49ce4a27cb936b293b837146d56af128d941ad628f4",
+"jugadores": 8
+},
+"022": {
+"antes": "41bc9e1d454615c4993fc44b8fd49fbc554b82936b6310d8ac3e8be8b423b03c",
+"despues": "c4dcdba206a984d5d4a0fa2c02b2d0c1967412ad52ed0158af601c1123ab02ae",
+"jugadores": 8
+},
+"023": {
+"antes": "07d282c04d3ddd93ae33e474caac598285e7c0d370accbdb737829e4ec70f7a3",
+"despues": "ea573763f17096ad9b4c65e81674820c2b6b045452649defd5f976a5044d437d",
+"jugadores": 13
+},
+"024": {
+"antes": "9d0f2127a30c4b98c27d6004e3c9ed4421b6dd913963d5109bf73a7d377a4a39",
+"despues": "cc3e81636cdecf278b8224735c03a25488b0bda897d2a3cd644d9acff03edb4d",
+"jugadores": 13
+},
+"025": {
+"antes": "1bcabb616fa0b48716390fc10c77dc47a9f2a2657e41b84268b71c96f50410b8",
+"despues": "45b9cb6da4f8fdc873897378a3a7191727c2d071daf0a0d848cd235810bc67a9",
+"jugadores": 16
+},
+"026": {
+"antes": "17526efa55954301ec3cb02ae4f20092185fdac56c1d749c3954f2c26e202faf",
+"despues": "3c13ce0dd251cc2707a74f5a85506759de7145d8a767a35442afde80b834302e",
+"jugadores": 11
+},
+"027": {
+"antes": "54e14eb36e62e191860294b8eaffd5ad7c94d304f5cfb5c87fa03a523fe83db4",
+"despues": "98d20c82c0b9ecf81237d85f5b026c097f9ffc5c75f3d067f656b0dc7c59e4ee",
+"jugadores": 12
+},
+"028": {
+"antes": "ea48ee41cd74846dedb77607fcbca29e39ebf113ba3139b299be9d1dc8834f69",
+"despues": "78cd1c2d0abc6f0cfc003b5b2db20127f6e929b5df7734e782795f0e4b986b8c",
+"jugadores": 15
+},
+"029": {
+"antes": "6b86c6339d7bc7806bbdb0b848f093307bc359ea0f6b9ebaaa37b7a3fa7f35b6",
+"despues": "df0fd70a5f455887743f180a05116d726d1e6108d7c62f217ad3b20dc59b43cb",
+"jugadores": 13
+},
+"030": {
+"antes": "f9467b494ccba08361dc60ca976bb4850f2f7253890147e3872d1ec47d0ee502",
+"despues": "0c35a68538ab546a110d977745bd8e2537363fd00d2962676d6e713498e6a166",
+"jugadores": 14
+},
+"031": {
+"antes": "3367959b1977f97cd98c742b6a6202739ae374c9e544fb3c9a5915d3a6b808d8",
+"despues": "cda0099a90c2701dbd04e0519c789d6b22a2bc1ee5052a1ff3994fb5abc00a25",
+"jugadores": 12
+},
+"032": {
+"antes": "3363978302d62ba6034d6bd1c4c381e196cabfc95254be3feedf76cc55870926",
+"despues": "d16ad29eed0cabfea7e74e763710e2ffa2959bdeddd18f3a8b1ba537d898f146",
+"jugadores": 10
+},
+"033": {
+"antes": "17a94f3c7f178d3c38c84f0164d60609b319cb7fc5eab8dc7faf9af9ff614887",
+"despues": "99cd6be687e7a0708c2b5c3ca940f7e0879d74777d04794d5c8966f0d44ac022",
+"jugadores": 9
+},
+"034": {
+"antes": "41386917f6f504990cb625d59276bc6a40d89ee228ae99d825c6613ec163605b",
+"despues": "311d44e8bc2f85879ae91826921208ba8da9c61ca2cf643e4fe5e203a1ed52a7",
+"jugadores": 14
+},
+"035": {
+"antes": "38ddf7bc938f8cf3b423646d04a767991232fa23ae22a1a1450edeaf0a0802ad",
+"despues": "15ba35d9b11a5be3bfc1ce81e2fb9453ee618e32c010f1ee59ad0960ee49ed64",
+"jugadores": 9
+},
+"036": {
+"antes": "4251bf793c954244d9d9639eedccb2471a82be0d3de4faa31d1650d03eca31d6",
+"despues": "b21b9525d4876328107eeb520ed21bb71bf64a87610d9cb2e3350db6e7994709",
+"jugadores": 13
+},
+"037": {
+"antes": "78da95848bbbf0846f13c1f402e0ca9b4cbfaa8e61d6383b9ecaa76f0c1e5440",
+"despues": "032095ada84d00fe93499b2e60d1955bbec2f90262ca62bca427f7bf688bb556",
+"jugadores": 13
+},
+"038": {
+"antes": "4f8d92ce067babfefd30089e95f5a9986325801f8b92a21b5f8bfcc1b8ef6fc5",
+"despues": "2aff48630dac522e3044ac017cabecb8449da9c40c9e26db91c4315393c3d98b",
+"jugadores": 15
+},
+"039": {
+"antes": "e6f23590f1c425b0c38998383b6d627f347ad6384d72433cada9b359355b418f",
+"despues": "c60d9feb733a0dd32bd4931f82f7f390707b6c1b0891890d245656e61874c016",
+"jugadores": 8
+},
+"040": {
+"antes": "9c9dc27272b8ade2d2a66250efc076d15774804aeb504f8fbefaf9b83db8c979",
+"despues": "b70b973a3441a19a09f71d3453d07bd534fe84dfa380127d47cf55afe154c124",
+"jugadores": 10
+},
+"041": {
+"antes": "77410382a369aa1608f10caf8e3cc1a588b6ca5c7bd22e86cbb75b6360d4b875",
+"despues": "f4dd7f7e8d25d87d04827f69adebe7aa18cb99c079fc0ac26eb79792001c8547",
+"jugadores": 13
+},
+"042": {
+"antes": "d0d62b61e6067773632bffd84bd54d7c985fc245885bf5ca00c84c050a30201a",
+"despues": "90391eef8471e38e65c73e893a7c070735a2365d3f3a98d7e304337733c3c93b",
+"jugadores": 14
+},
+"043": {
+"antes": "3b0b9bffda9ec6a3c233d95299798fd4329506d0700d975e0fc5fa3f29580b80",
+"despues": "69c395e4ffe6f5f2b4c86b50af71c41cb9762dd40a2d4a22c2761e3a6cc0fb91",
+"jugadores": 14
+},
+"044": {
+"antes": "63048d94896ac5d012f47cb82edc9b0a07144e9a7e3eceb289f08c2ed48fc6ac",
+"despues": "8a1eabb2c3987afcab5d586e102e88f30cd4d4aa6f7da454d3aa66343c49ae62",
+"jugadores": 13
+},
+"045": {
+"antes": "ef1ca2eba5aab59db4f9a6c70b88c87cef3f81ad8649f5c0c14aa2de45de70cd",
+"despues": "d238875aeb52b73d45a22e3df4603f625ebc2252289ac84eb86500ba9ef03652",
+"jugadores": 18
+},
+"046": {
+"antes": "dc5e6e638d1df3c9899d7ebc4c1817b1d43e516d071ce87b7d0635d18cdd756e",
+"despues": "5292eb04e7135fd0bc54d4cb0f006f1d976c9f50e9bcc531e279b469e0a07ed0",
+"jugadores": 13
+},
+"047": {
+"antes": "d5e817b953ea79a78c004a38a3e1682746cd3bcaca3ad8d5e7b3560bb7bb7107",
+"despues": "b072130373659209d6fcf72d0f59726e80a013204d7b1ff344d280a2e7824009",
+"jugadores": 9
+},
+"048": {
+"antes": "c4769e79d01cbc0a631eb64ef9f4752244079f46d2a7a6f2b35d85e3510b4988",
+"despues": "e65e4d637c5c41c6468b1ec07f637863212868c7fec1f6e6b91cb26c1fc151fc",
+"jugadores": 8
+},
+"049": {
+"antes": "07a9e5402099e94e53e1f4656e898f5eb2febe82e4dde3061b3a6c62d9a9f51d",
+"despues": "614ecf52c10f5a4089a897359e44d3beb8c480353444b0f6c755a0df42c9f08b",
+"jugadores": 7
+},
+"050": {
+"antes": "48079658c2e9cb07b4f2db49604ff61c6b47f425d0fd9237fb9759956d1d2ff4",
+"despues": "abbfc627b4c4ef047f697737bcdcf5b99fba5021576e3b066c703cbeacf994cd",
+"jugadores": 16
+},
+"051": {
+"antes": "764b0da22b9f1aca5ecca9cbd7d50fab4c3ec5032087f2c62ee9bec1070f3172",
+"despues": "ae81489915fccf137adff601c6c0a89e11f8b8c7257a95c78d7de27d8349f47c",
+"jugadores": 21
+},
+"052": {
+"antes": "27e1bf05a26efa1845e030c47c22a5a87e2b02ce51a30d907fbd77da2af13cc4",
+"despues": "ee656b17669896578471b3d2b58f073683f1a7756840ad42f2a935092eaf97d9",
+"jugadores": 16
+},
+"053": {
+"antes": "9a429252ad8e94e3ab6d7256d9c8d1f5a5bc63dc66309ff4bb872483b6e1fda1",
+"despues": "0e1660d6efb11265bafcb5e367e75f2d9ca5608876a03a088205a1aba14e4a77",
+"jugadores": 7
+},
+"054": {
+"antes": "cd7d6d8a2410e908d350a6e7cb5780d673ada6f9db0e4b7ac0c679ab7f722a47",
+"despues": "f20f95ab3512dbbf06b8d2db109da6794805f0c1a65ca4e29e5fd034d49cf2c2",
+"jugadores": 11
+},
+"055": {
+"antes": "0650d24b5eeff3b138d9a2923bbcee4656deed17a998092cd272e63127f083a8",
+"despues": "f7d632cfee93c97068e6202aa59072877a332098affddd2149c323dba7a8398e",
+"jugadores": 9
+},
+"056": {
+"antes": "a9036d5c56eb21e6b9cc8c376ae2c8a1f348447b0635932fb52c69fa5e45af10",
+"despues": "66e811b731c59ca005d786c8d0e1575fa691087be836a401f21efbfed56b6e48",
+"jugadores": 14
+},
+"057": {
+"antes": "a8ff72b563f8564f85e21a8f83f42c99eb16780a140fb239a21b987bdcd308d6",
+"despues": "8959f3a317f531b752dc673791cc74b94b4d195b275672a3288bd27453d785c0",
+"jugadores": 11
+},
+"058": {
+"antes": "c82775fa8a464dcc945ca54253baa8c91c7ddf7ef3ef183425ccb372127c3981",
+"despues": "2c06eebf6b2ffd65d206b7a08bcb78e9b3cc6c15410d2083d55ecfc82791e69d",
+"jugadores": 14
+},
+"059": {
+"antes": "c78b9ae91b1b6412b413bd8e977ac7a8ebd82e3838f0e76e59a036325c28b644",
+"despues": "0e54024b1101ff2fc26f77eb8532729041f8c86686eb6cbad57f462cc90d5016",
+"jugadores": 8
+},
+"060": {
+"antes": "dbf1487b3c1d133fae693a005aab95c3f01d09b3c0bb88d0085e972e45d9b067",
+"despues": "7d6ab741708f67ecac4b33baea70f0efd81cff603698aa96c652f839c51853fc",
+"jugadores": 10
+},
+"061": {
+"antes": "61f8ee89957987d55efeb095790d8d0346019cd4b01011e1afa08977940c8d1a",
+"despues": "7bc67b550abc88bf388e2d1ce633e36f2a9b0a4467e28b5df135246785b0b05c",
+"jugadores": 13
+},
+"062": {
+"antes": "ee5ffa899f332bf9281ae2a66a4abee1340adc57217afd80900a990d393aba08",
+"despues": "4b9e4a0d16a599474f8f4687fb566d3d40095b0b1b2a2b9572dcc47bbff21336",
+"jugadores": 7
+},
+"063": {
+"antes": "4123c3d39fc4690472ea90c5142f4a85549ae772e7556a5dc694c563e77d5d6a",
+"despues": "1f6bc4668af46365b423a5505ebc4d92b73ac2cc8e902bd2ca300eb4c2c90c03",
+"jugadores": 11
+},
+"064": {
+"antes": "aba490cbe3d651d338e555755461c8aaee12064f83f02e5a5ceadd38c371c19c",
+"despues": "79ed992ce29df0b3ca3f48e32a01ac3e8dfd26f5d9eb6ae9bb95166f1de906ff",
+"jugadores": 16
+},
+"065": {
+"antes": "d81a239a578af40c0cdb2e418c55720c8caa419d0c47ec443a9253825c8fb083",
+"despues": "85ace4cb69d2d92c7e41e72f54382e5e037a6b748d3f8427157f0ee105edec3b",
+"jugadores": 15
+},
+"066": {
+"antes": "f7ec7786b7c421106fc418841a5401da25248eb9bf0283deaa085a9e528148a6",
+"despues": "a7683a58aa9d546750a6a4e44fc653fa718f83c79e4eaa2f33fe73aa686e25aa",
+"jugadores": 10
+},
+"067": {
+"antes": "133c41a392ab183ca7103ca8d517cbebaa4bfedefda0872acc31adfed690f556",
+"despues": "0fe378737b50aa5fd94d27c7734673b97537732b66386d36830f1d704ffdd2c9",
+"jugadores": 7
+},
+"068": {
+"antes": "ce1d8fc63c03eba671e1b81e6814db53c3147cb2fe3055809f7ba459901d18cf",
+"despues": "c7b84704f441fa872ee482722dfe619702a0a5cc53e528b7af274281b7cddea7",
+"jugadores": 11
+},
+"069": {
+"antes": "baaeb274c7e3aefd5fa39f51751dc8f555740787dfe20d1b86f945548c32db34",
+"despues": "4a19f626ba38c76a8f4478ba7298629a5e771175bfb8c4c1f6c77c8ea7c1eac5",
+"jugadores": 13
+},
+"070": {
+"antes": "593ea43e2659da106412f13d714d2770f4093712a881925af303fbff6131066d",
+"despues": "cf73cf0d06f32f0abceda7be4bdc54861ab24fcd1822816fbb87a092c4c29404",
+"jugadores": 12
+},
+"071": {
+"antes": "1327578167bf3488cdbb66c48586bed8fd9c625dca2cfe5ba1bc067d876a3d81",
+"despues": "8d1034bc865c99528ec9a7d78e28637a85f72c418d8c3a10e963e4e13b476b6f",
+"jugadores": 19
+},
+"072": {
+"antes": "5cfaeb395f5686a73072344efc355d4bb6c7edd34554fef58fa90ca1b1ba5e06",
+"despues": "dcd5a5bc2bdf4fca4d34953e87be9f57f982e715597afa4a42256ac0d2d05e43",
+"jugadores": 12
+},
+"073": {
+"antes": "e6868700ec14bc7f2fbd4aa59387bdd5bfc7e1983e52bdedcc07dcf7d72fda15",
+"despues": "e9e5276f9132f77059bbd3b02720e8668c1bcc038e6bc602fd7b8f3ad72974bf",
+"jugadores": 14
+},
+"074": {
+"antes": "c3ff66823326ef514ca0b832eedd4119e63bf5c44b4a47c0edbca44054de0b38",
+"despues": "217abbc5e3e9885a7905c60d5d86a478fc7cd4d2c648c966e3615a8c52b8f174",
+"jugadores": 18
+},
+"075": {
+"antes": "3d7f3a0f6e452eed7fe4ece201f2c4280c46b9b211ef38fb022510234067cf64",
+"despues": "c3421a31970ab94e8b9389568e799202b91745bb15e932b520343d6033f7d409",
+"jugadores": 12
+},
+"076": {
+"antes": "9abe3c77d3d128534f26f5dc0dcf1e2741070c6da9aea9cc357487d28ef544fb",
+"despues": "0b57020b54151cbb5c06e49273465bb683a13f77064226cad82a53a3cbdb05a9",
+"jugadores": 12
+},
+"077": {
+"antes": "075332c392ebc1de30d4daf980fabe18281aba1b4df6a1ef5c2f276387064cc9",
+"despues": "e41610de661f90c71fecb2f5f9f190d5cda704205775224ea97e66a26100843d",
+"jugadores": 11
+},
+"078": {
+"antes": "1d249046a68adf05e3109dc39e282a749d7acee05bc5db3d4f276ac2c26acae1",
+"despues": "569392d9444b943b9ec3b9baf15fd0af702f43667223647a231db5dcd68a4ffc",
+"jugadores": 8
+},
+"079": {
+"antes": "e75fd685de3b835829b8ac6ff4a76a3294523342af5e9ffefcbb02d76b744033",
+"despues": "3de9d76fe2ec85440c03ab37c7e819bfaaf2bbf88a7a284eb9e699f706a5bba4",
+"jugadores": 18
+},
+"080": {
+"antes": "5851b978fdef408770212e4fd5a6ed8c0f2b8aac7b4f83e461c68db4e7ff1f0f",
+"despues": "47ea075ff3577db147421bc05b350f45969e1306d8a7ee49b25f499916be0bd9",
+"jugadores": 15
+},
+"081": {
+"antes": "329df30f37bf45447969f3708a14fc2014ead6c168380b1c1fa7e4c59d272a0f",
+"despues": "ce673cd5dcf9f3d7f78845a0da96c315d71b9caa0e6c5aea5424c88ed082c017",
+"jugadores": 8
+},
+"082": {
+"antes": "35c4c6fbd2ed3c1d11023788dce44ba959d11e2430960ebfb931bdbc114dbece",
+"despues": "62913c12cbc7ef5a445f14b5672b2d66140ef53be06a7c24fbf6af5b70bea46a",
+"jugadores": 9
+},
+"083": {
+"antes": "d88ff316eaa6b0d525e0da4f08eca282a6a1026936dbb5dd98be2dd06c50e159",
+"despues": "5cf0c352b06f8398a0041a93618fb5bb74431f88531e59ab70c4209dc52a3489",
+"jugadores": 10
+},
+"084": {
+"antes": "8e9d0769f03fb402ce74e719bd07b304761a422706e06dcccdb4e54e6a1a7a8b",
+"despues": "c48da55c969d1e9222851de114a86991ad084307069a074bd1e432b1d22f8a4d",
+"jugadores": 12
+},
+"085": {
+"antes": "9b53cc0a08ef42734c417b45b3fea2b0f6421f14bb06c062335b862aef50abf9",
+"despues": "3065d7731f7c949ef2afcb1190154f985072c455dc1a11ab20b83244d75f5235",
+"jugadores": 18
+},
+"086": {
+"antes": "b0644502d8bd8b61ffffcee7272389ca0a16be293aae0a3e8e96ec894cf1dfe3",
+"despues": "13f27d904a32b25f81c1ddd42aeb7b8ffcd41d2fd0bfdd495b67a2dbda5cba4d",
+"jugadores": 9
+},
+"087": {
+"antes": "0616800e597b03cc643f290bbfc78582bf4ea2f5acaeafd4cae4c7f7e9c580fb",
+"despues": "f77b965630cc0bdfedf6ddfdbbd4a9784bafea56922bdf227b6f128219fdf9f9",
+"jugadores": 7
+},
+"088": {
+"antes": "87068a5465f43224892b5569e0ceebf520e1ee8c41b56f3284201528701c12ce",
+"despues": "8d6accbccb7bacac7f3b942adf6e81d62eb9817e6f9489763fc43b89404f4602",
+"jugadores": 9
+},
+"089": {
+"antes": "1e0c00898a28b6fddad84333d6c1a18414a3b1616e21bd15ade4327cfe56f3b6",
+"despues": "98d048ca010cdb804afa64020a14bce217946a411ac935a59b14bc5d3e7a30aa",
+"jugadores": 15
+},
+"090": {
+"antes": "fcb333de3dcf940eb280191aa0bf56a23b935b86d3f510fe3978a02ed45ff633",
+"despues": "70c6058950c475fa2e15ae86a698244cd1228163f92cdcd48cc235ac542f6e8c",
+"jugadores": 4
+},
+"091": {
+"antes": "ae7b47f777dd6ae480c221ca80f8025c15aeccada2cf25c0dd2741ac8ddc0c0b",
+"despues": "eed79367511c382755d29c09d44fe0efb1a9e729e8fd2ae4d59ff5b937af8b99",
+"jugadores": 13
+},
+"092": {
+"antes": "1f8de430e303e9fc9689ec2b9e59b6bbcd509b26c1e04485d38f65739d861cd8",
+"despues": "0c21c8de965603782069396220a5d9165dca3522f79bd45ddc271389733f0dfd",
+"jugadores": 10
+},
+"093": {
+"antes": "5840a6f2cb796b4434868b0b86d9c3ba02c6622f56a5605e0097077a8232e0d4",
+"despues": "95ec252c595db5aa44273704f3375eb134fa99bf052f075eeba65e2d326b4334",
+"jugadores": 10
+},
+"094": {
+"antes": "76950c196e9207a6f57df560a213bacf729149e07bfc33dffb9ea0ce10fe7283",
+"despues": "5b0d88ec88f0c57468f6ca980b531c5c89d46ef009dafdb089934b485ebff1d8",
+"jugadores": 10
+},
+"095": {
+"antes": "1a6cdb6b158b95b821aeb3afb77d34227557fbee89024c23343088330b84c6ab",
+"despues": "5763116a922b88b1da5447894f35e7171b8563aa7bd241e22a6f5a0f00b0e691",
+"jugadores": 9
+},
+"096": {
+"antes": "39886769427201fb75477726d330e84448145082a26e9fa50d15ec2948a8329c",
+"despues": "87bcb13db1355fe5d7401816d9e484a3eeaf5720d271ae2dda0f6334e2856841",
+"jugadores": 12
+},
+"097": {
+"antes": "a97246c2db37b9fc915fe53febdf48a8b0f577fb4dbd3e50f24f6919f4d018c7",
+"despues": "5ea7074f676f62480e093df775492eb6877db537ff3ba1a576790e6d1d9d9826",
+"jugadores": 13
+},
+"098": {
+"antes": "35d079ebc9b94234a109f26e053b7e0e0a9a85ed2acaab178afa2e374e30d483",
+"despues": "1040f0d7418fb06c9c9bd11143da0451f5c841ea396184074df003fc61dbbd89",
+"jugadores": 20
+},
+"099": {
+"antes": "eee5b8ef46741d36c3769bcf9a20f7ecacabbb6587c7a93a4787ecdfc3551024",
+"despues": "8c02f634a96f3477280767b95246cc71490741e505b7ff509e0db96267a2c588",
+"jugadores": 9
+},
+"100": {
+"antes": "0054c4f208167f85a1e4739ff4da31766fcde1a571a6a34e486f0de45e7e7890",
+"despues": "443ae766e79a7e6ed6c3106ebe6cbeba17ad4b64630cb5f70f986e74abfcd447",
+"jugadores": 8
+},
+"101": {
+"antes": "87f2eae06ddf1a132d7118241664faca6b1c51e5e9e80bf4115c88419c0a2e44",
+"despues": "101e42dab277b05b1403705aa00998588a8bbd5937fbe356278fcb8ba21c14b1",
+"jugadores": 16
+},
+"102": {
+"antes": "34e550e644c7b90a407a8a3deef69d6e36fbe70ff7faacfae1579489342d7381",
+"despues": "29afb125cd0987245ff1680e71506b42381caa9a662010c13464aae6d60e49c8",
+"jugadores": 15
+},
+"103": {
+"antes": "525cccf51b0dec59871d2968f8ad1e64ab5915bf5008334de7f69fe9e2862e87",
+"despues": "fda18538ba1c2d5cdca443f0e281de637320f3f6bd6aebf741f673ce00c51a0e",
+"jugadores": 6
+},
+"104": {
+"antes": "a041ce77f258e2468d6d574b3b8eab9a719e7401eef4888ece4c64c6f0ed3d1e",
+"despues": "48c0d76f7f0e1c66f5120c02c3675e90806d1200006583ddd21333a23a6219a1",
+"jugadores": 12
+},
+"105": {
+"antes": "d0665b386296cdfde3f98945bdaa1a17480f1f29f1f5b7844a85e6891ed6406b",
+"despues": "f14a4f1761dee223b54b1f89127fd2b302cdabf902d512563b7e46ca4dcfd143",
+"jugadores": 14
+},
+"106": {
+"antes": "a74447205d2158a48b0fce657587ba83eeb97c1daad4cd685fe7684f69866f14",
+"despues": "5d060ac000602bd9c29cda5af643e48d2b1514ad7df25d866ae06a6bce9ff67e",
+"jugadores": 11
+},
+"107": {
+"antes": "a324a46d09af3302c4ec7a87255700352f26074f733bd35e7acf33eb1fb0ea1f",
+"despues": "a966cd7e29d376bed88119ebc61579a8b61b0d8a77292d75592c8d2112aae611",
+"jugadores": 8
+},
+"108": {
+"antes": "3b3ed8ad1dfbadcf779909e70c6f14ab5ce7a01e7132fb4dbb84712f2f440cd3",
+"despues": "cf63b038f193a6768894c78a8cab6666dcd09372db510f19a8a4ed52fc55cd44",
+"jugadores": 16
+},
+"109": {
+"antes": "4e52e23f5031034fb9fca570a4399e32ba4357cfe9ade733b3d89b0b5aeb7de5",
+"despues": "f3f139c25d924e3af9cc9e51a12d7f71f7e4aaf095625bbffc45606fc6582b3e",
+"jugadores": 16
+},
+"110": {
+"antes": "cfe88349f05c8835920f4ae0c9a7e781612b580f1b104f5f40838992bd66983c",
+"despues": "c298e16c1d2845d7b5a2ba445116070149877a857f16c0cf6528aea7435a6ad7",
+"jugadores": 8
+},
+"111": {
+"antes": "9278f1d7038078567519bcbe0580c30e0df95ab9663fa076d00c9e55d920c36f",
+"despues": "b8b9a532e81c88f6ad61febb5335876920f4299eadfc27adcd6c5d2138a99f79",
+"jugadores": 10
+},
+"112": {
+"antes": "39cd9e7b6b7a74ec6e2a4c04773c29f9844622985bf09befd7318f0f00cc46a0",
+"despues": "e0f8e779615766b322853e0e7021c919d0cf523cb5a69100e88d8996a08e8d47",
+"jugadores": 9
+},
+"113": {
+"antes": "e0b7d73d591661975bc2656fda5b2476182e7b7f564919d6b9f0a9fec2962da7",
+"despues": "a585d82615b89f3e3a73eba48badd2b8358df46eb89ed7d11c6e6d642e248467",
+"jugadores": 10
+},
+"114": {
+"antes": "9b97e029e0df227996bc1f719ddbe2dcac1b10aa276a1019c4e4d21b8e5f857e",
+"despues": "ad7421caf5cb0f0645bfd023cecb74e1f5b08cf23f6551e08f0c0e694b709a4a",
+"jugadores": 15
+},
+"115": {
+"antes": "a8d7cf4cd7a129103a64fcd789701189cb4fd975e307caf7b077712cb193a894",
+"despues": "f39de78b01a62fcba0083a56f1e63f5b96f9bb7cf370f9d87e9af9686f257b97",
+"jugadores": 9
+},
+"116": {
+"antes": "3d42e88c8ed129925f1d3fee7ff105ff00c46dff63613de1c1dc5bd973946aff",
+"despues": "afd83be0f33b2d8344b8ab65036cb4aecf0ecd61a0c236a994d6d3ce004de79d",
+"jugadores": 11
+},
+"117": {
+"antes": "b434357e58c0772e07e197b6ecf2886d50fd3ceabcc0b4be4410d968f60b3c36",
+"despues": "d91cccc3d1547966abec07403a1aff7cd579a852be8ab130a56d8cbfcb6d1f96",
+"jugadores": 12
+},
+"118": {
+"antes": "c780f1c04ddc2eb118a9f278a5961e7551da8dd5d1af87b1dd2f9ed7cd3892b3",
+"despues": "d08af10d4f1b6e36c3ce3146338f402a2c6b6f2ef6b3aff97c0388e6bb78804b",
+"jugadores": 11
+},
+"119": {
+"antes": "f11d1337f01af31f7fc9b94fba2675dfb5a7148648cedfab72393df36cdbe628",
+"despues": "339b1e60f95064237cf862c585a970191174b54e645b92ebd8d79aa5b434f3e6",
+"jugadores": 13
+},
+"120": {
+"antes": "c2a669768d338bd9183d0c3616d1a10717bb4cd4570008f4afa6156ef3240899",
+"despues": "8102e0c4fd36d74c8093d4fd8ad44aeef4e275dbddd02b509506ec2b61efe97a",
+"jugadores": 12
+},
+"121": {
+"antes": "307135cb17959930a4776b118530a72597a37b48c23bc7d3f9968e9faac27ebd",
+"despues": "f73fdcf94d43847111b611db40908a109a766095685efed231d1c40c20de70e7",
+"jugadores": 12
+},
+"122": {
+"antes": "48b6d45cdb7f23df070957f88500f53821626e6ec84f5d51cc3e5220b1b33cae",
+"despues": "1a5c57de1f18797694a93b69e2837960d6254a9810a8547ecc5c5b85f4363baa",
+"jugadores": 12
+},
+"123": {
+"antes": "3c2b70792c74f6087400a135f766682de33c689043fc92217354d4743ae58d55",
+"despues": "bf6f2cf192c52cba37b4006d31091ff29a4fb4e750937fa1fe334abee0abafcf",
+"jugadores": 9
+},
+"124": {
+"antes": "8625a798e2b1063c411d6d3815badd246cc9645e6012132a7431b758e1b27c50",
+"despues": "7fd3d1a7c13797d6fb697ecbacaa2e1c6e31d045e74653b2d0afc4a4b48ae167",
+"jugadores": 15
+},
+"125": {
+"antes": "1898db26b3c1bbfb92fd15ea9e949096b25ea5d1527d5330cb4a6d76f82f9087",
+"despues": "a6a25143fb2678d55d52ceed1e9a3fe41fbba1381b52aa5f0766d8d3e226bd5f",
+"jugadores": 11
+},
+"126": {
+"antes": "cd40d12b5a08ef5327ea635693496767ca72791763d317aaa0eb924f673eef73",
+"despues": "04456b956dc6ea53aeb3147f097019d326f9cd033bc80213c75ce3d001aded9c",
+"jugadores": 12
+},
+"127": {
+"antes": "cf5607503b6212af7a2fe6669d864a164c972780b1921c860e27eb47a4e26c2d",
+"despues": "7d69e8fcb6886ebaa85c7ffc189af58ff1c475cae8d56440ec677850143490d6",
+"jugadores": 10
+},
+"128": {
+"antes": "76562f21058520175c039174ccfa18bc47874256fbcf939ef8b424a9d6a14dd3",
+"despues": "5a1bd88fb7560cec1f6e2f1d8c4fa21db7e63baeded8373614b15afe5fb779fc",
+"jugadores": 12
+},
+"129": {
+"antes": "b1963cbec20cb2330b1a69d77e24c2aaec329a105ac8a6e974ce8d7fa403b722",
+"despues": "845e490d9c305bd5e35768f97083c8ff75f1a64a43f0fcd0b37a62c66fde5bbb",
+"jugadores": 10
+},
+"130": {
+"antes": "116dfef27b7230682ba7c761031db61380114987a2061a54b2808d5309eaed05",
+"despues": "b4af666af2212e6a960e485e0108882efd1e429f127c478ab38519adc3597011",
+"jugadores": 12
+},
+"131": {
+"antes": "320fa9d769c4a37640f6843e3762c3104f414e34088f040fb44fd3e7fab30443",
+"despues": "c7ac1f694876ace768d20e052f4fa16e582eac099a8e1a4297854ae79d990c91",
+"jugadores": 11
+},
+"132": {
+"antes": "637ae30d83e126e737950f905cfff2b1bb3431a3bd7682ce6dbc8c7d03b8f204",
+"despues": "e5e9ae8dc66405209053cadeb30d836ecd5166e4b578345d4bd58a069e216edd",
+"jugadores": 13
+},
+"133": {
+"antes": "070636826b071af35d1e7343ae5f7fc62b0066d81161876374679b09f0280a41",
+"despues": "69eecfcfe9f9123937568f561beac2d19a23a65836d464faeb3958d13ae3d858",
+"jugadores": 15
+},
+"134": {
+"antes": "64f810acb45dd44940eb003b696f4498d10442555ba22217166d896a1883b9e2",
+"despues": "d17a1bec6f14634bc342430620a4ab358de556a66e43f714a0090f4b4ed8b651",
+"jugadores": 9
+},
+"135": {
+"antes": "1e813b26a03251f5fd50050222f190779ea148eea0f6b3a81bfb62de2aacd72d",
+"despues": "e38a9d265c032f5bfc49d62a5906de84615be788b69c1c3bc2d188cc0c7f0467",
+"jugadores": 11
+},
+"136": {
+"antes": "027a66003130b86584d16fd616fd9f73ef99d2da2b9c8c2c6b54dae722d6b6e0",
+"despues": "7a693efd2c76558466efa79e9ad61e7155af426d17fb8c8f62a3d69f7f5bf7a5",
+"jugadores": 14
+},
+"137": {
+"antes": "9aa92a3aee8a120e0d643f63ce93686e3c849d406d1bcea5c18798be54536585",
+"despues": "ac505f010b0bd031301d6478e98e109c16dbf4674432c1f4b813349570bbbe7f",
+"jugadores": 13
+},
+"138": {
+"antes": "51e116729d25b8ab7c91ffe601e785df3a5d9c6c2bce5721b9a04883dd085c6c",
+"despues": "89a8a6eeb607e4acce76f23c34c89e544fd7250db8d14325056ae7baf1637d9b",
+"jugadores": 15
+},
+"139": {
+"antes": "ea430a70c00ea04c6cc98fc2a0ffb2ed236638b3699687eb2238874a24c778b9",
+"despues": "d054c547f811fdf786a286728787a972a448d1bd6efb1006b430eb0366ac19b6",
+"jugadores": 12
+},
+"140": {
+"antes": "65454a035735278c3567b8f3da1d140c479e2d78d00d026d0161494e77cbe942",
+"despues": "822ebd6458b2aa61105491be3247c0ad4bd32f27d32ea971640eec70f9d98826",
+"jugadores": 10
+},
+"141": {
+"antes": "59169cdbf17168f9a06232ea3192cd3509e3a86c645bd9e0124c14b334710aa0",
+"despues": "9589d334a13450f63f522e7a010bc0b6506520035fb673b50a827f7021d7602d",
+"jugadores": 10
+},
+"142": {
+"antes": "70afebdb8b4cc38985335ff3f36383ea7662b40f7a0126b085ab13fc022e6da6",
+"despues": "b606115cbb78ee6b5ea7d662271ae003adedb60d2fb84b8a93b884f517392f92",
+"jugadores": 12
+},
+"143": {
+"antes": "23144721cdf45e994c1e7f78e674779545e7e130145436fe2c6ddd54f02f85f1",
+"despues": "092d6dc4a8bd567dcbcaeef036d5385f7c5a41f846bcb2f7bab1277b8b81e52b",
+"jugadores": 13
+},
+"144": {
+"antes": "eae74073192e60677f564b8011908a66a3411247554a2255742a447f1a9bf3e6",
+"despues": "92ad0c11a5e31645cadcf3ae3d69f3065f7fa0cd16bb9faa50ca8a5b79ef6215",
+"jugadores": 11
+},
+"145": {
+"antes": "5194c27b6cd1684c781c9699fb1720d6858d6e341719c605d2d93f249d0b59c6",
+"despues": "621c03b9a7c5513238dc17c66f0149cd6e39ccde1df78a25b63d4f5b9b6f9a45",
+"jugadores": 9
+},
+"146": {
+"antes": "0fb7bcf9216afdaf5f29aa2d159783825a53def1ca8c22466ff257e3c75f32ac",
+"despues": "85d6183206f8500009629b78a6aaa79a19fb8362ef4d07db7b8e0e92185fd40a",
+"jugadores": 12
+},
+"147": {
+"antes": "032b3af1dbae63a21a74611574136c27f4f4ee0ad658b981beab8e97b0e6d3e6",
+"despues": "9a7ede58f2c24c8cf072da0a149c922417ec013264bcf3092fd563ff29d669fd",
+"jugadores": 11
+},
+"148": {
+"antes": "4bd5aa106dc9dfb9bc925db487a1d0895d4e7d1763e4d58b8a0c30c8e4feb97c",
+"despues": "4ae21382a9302b514019de14bce0b257a5a60ab3ea2cd467575fb4058ab63932",
+"jugadores": 8
+},
+"149": {
+"antes": "e414254b3147d2170e9c7e3346133f4919239f82240de395edf11a7ea4629efd",
+"despues": "de396c9c58ed265b3197aa4aeb0478e76fddd84f61d291e53db4cf3f7ace604a",
+"jugadores": 16
+},
+"150": {
+"antes": "3b664bc011987eec06da52c65fd2af9f505c9b61d2cf5b875516c90986cc28db",
+"despues": "f4117d120c0f62fd6223be23c517717c5eb7a2a63620c61cc6502596d58ebbe8",
+"jugadores": 8
+},
+"151": {
+"antes": "7e2e8e63d7a8f6d1acebeecaf0dbe75143a7ed568d2376d206dea029e7882f15",
+"despues": "3587b6099e6ac946f0b42c69dd515b8f8e71bde613e04e64dd6c6025f1702149",
+"jugadores": 14
+},
+"152": {
+"antes": "bafa07a0a02cdd1e940b70d4b48d54a9c030c4cd4c7ab7397519ed7a59e0c7c2",
+"despues": "1b32e5de9add1e6fd95494243e94f4c45cdc1b5a1b803043fb553de3735fffe0",
+"jugadores": 13
+},
+"153": {
+"antes": "01282f317b963871a98ec94b5ea26e9dbdf5012d56f2ca1ebf659d3ddedb00ca",
+"despues": "c4727da94de9221f7a23216fd4bf49dac0d16eb3c73326af1ccb7ad255bccd53",
+"jugadores": 14
+},
+"154": {
+"antes": "19c08ca38004a13d3b3c88a8a25df674b53394ba3e10e8059801233280a90e36",
+"despues": "62780d353649801950abcd3665cd137667e80f7293ba33d05f952d2f10468215",
+"jugadores": 7
+},
+"155": {
+"antes": "ad4a353b628121bffb1aa2979c1eb847953bfc406c4b733c4f193f4f86866369",
+"despues": "c219e213a5c30b0729a1100ff143740e221de7e59bd640e5b31337c2ef67ae47",
+"jugadores": 13
+},
+"156": {
+"antes": "4f023ca97945a66f759df5e35ceae6a05d92435e5c5e99c4af8451e25af76fc4",
+"despues": "1076929b185a22acd23a6f10a1f71e48766cc2003a6222a9acc3febb99470fac",
+"jugadores": 12
+},
+"157": {
+"antes": "bf46d9a7cef696809a0da2e57d81fcfd57393b7968fd60fa78285b2f19e04c73",
+"despues": "7c495c5ac3e18221bbc42e934c4d137bd1f3302f6166b2a4ed6a472860cb02b5",
+"jugadores": 10
+},
+"158": {
+"antes": "dfd7f9e0a560cdccf73ff7c0af5f44451164224ee2db9918d14d3b68a8346981",
+"despues": "2f07f92283ba681eb3b642c2b9cc351a4e0fefe5c633893dd0aa76fbd039db37",
+"jugadores": 15
+},
+"159": {
+"antes": "9aff89495ebadf86e409f7b4679483e886204b2f1ec0e0b27783d8ef02d3dba7",
+"despues": "81f484b4464ac0a06199af36e68d99727e9d7897bdb1b5b48861f883e1bed424",
+"jugadores": 13
+},
+"160": {
+"antes": "e138b5b6e8c4255200410ab784ff23647c938f6b7665c2c400c9a04e5665861b",
+"despues": "95504296aef0cebc7f96be17c413010696c000484c2de8989db9802a57fb10cd",
+"jugadores": 6
+},
+"161": {
+"antes": "9dd5184a47627ae0a210219a9c7cb6d2be6705c97f6f3d46216ef24d6e336809",
+"despues": "936e0b7e56923d4f77a60e3dc053b2f84ed9809e5909548b247b37e5e0dde2c2",
+"jugadores": 12
+},
+"162": {
+"antes": "15128f3d7a9b18b714881fe626090a8e41563d8955c250f790c961688fcace80",
+"despues": "93cc49c6dee899c2f9a91cdb0177f2e6673a75570143d4f256f94b0c4693a898",
+"jugadores": 12
+},
+"163": {
+"antes": "d9db2feebe07df434ea7b21a11416e7240c22596415c8b79d2220b0c3dc83d05",
+"despues": "c39e90590eeddc47e35865ea94e1889b7200f99e1f2f691b9da02585a8b50651",
+"jugadores": 12
+},
+"164": {
+"antes": "7e8002337503da45fe6dcc0dbe28725fd49e93bf7a73f4e57510f08a05e32007",
+"despues": "cef10015313e28f4c6c182dfbd4c521a01c06174f3dccd240859c54700032424",
+"jugadores": 11
+},
+"165": {
+"antes": "e7e28de16ef142a646a7befadcd053f8d7c9e1af97efedd26e348d48bc68887a",
+"despues": "2ee0deeaf08058e86ded1d4141384b5cdb353cdb887610e4fbac0ea9ad8daad9",
+"jugadores": 11
+},
+"166": {
+"antes": "b04307c4b646f77b749f5775766c82ece75f7fa674b8388e36c424995bc56cd9",
+"despues": "a74c747608ff2190f2984432c830dc4891fd439b54fcc0d60a984003edadd174",
+"jugadores": 10
+},
+"167": {
+"antes": "f746dc780010f308d978e31fb20143a2b164394a02dc8c2c8e75dd0ad4c183e7",
+"despues": "ae3a18c6de25d41bc31ebba3e7a63944f19ea7c7e8aac14d4534d7c686676997",
+"jugadores": 8
+},
+"168": {
+"antes": "5bad550c6c960f776f4bca0492e5667b35e22188c1545361ba088be4c74e3250",
+"despues": "fd9e2ebf39cadcfca396e8ff4aba2b2e279682e565afcb396bde7af033945000",
+"jugadores": 12
+},
+"169": {
+"antes": "b4955134117399ea5ed387bd180b03ee06d6b6a6c9319915c7e9b3b2151b2969",
+"despues": "8bfe4d4de47d60d35774177bc93dd5197b8d120049d2bcd33f1621d20df2a132",
+"jugadores": 9
+},
+"170": {
+"antes": "f3d729cab4a29a88d5cff0fddbb2cae35bc0471965b6edc11a67df6aae57e9de",
+"despues": "004be7718461cbcf4c48e2586a5f7f5a772101b0ae18e20c6fb135f72a57eda6",
+"jugadores": 9
+},
+"171": {
+"antes": "623049b22ff1af2f2c752775aae3ed131efb9c8b8807fa751fda24e4544ad8f5",
+"despues": "027a42c404cf2c7f3d6fbcc3d7bf12564bd27e80d3bc6e3cdf4ecbdb2ea732b6",
+"jugadores": 13
+},
+"172": {
+"antes": "ff780905ada2e89f49f77af5eab949bbe016e366a9888021c6118af4886db429",
+"despues": "a5c33e8bf6889cdeb7f9d969b48be281b5a529d0a8d5acb35c4a55b9519cf4f7",
+"jugadores": 8
+},
+"173": {
+"antes": "6180dfc13f2acdf70b49ac905383da7ae115639b4a71a837863cd5523be89b84",
+"despues": "b3787a0834c2d78ff729e2feca463d78d8bb5cb45e64ba4b0b604800c615534d",
+"jugadores": 11
+},
+"174": {
+"antes": "188aeb903e03436ca294174d446bd1b8d16fbce8484e077a80b325e463709313",
+"despues": "c6ef96bb142fe37c6c4137455bcb37107b4218caf387ec664031688edba36df7",
+"jugadores": 10
+},
+"175": {
+"antes": "b7ca76d167bb433cf0b33c88a53fc4002eee8121c0f275a43791b39429db0607",
+"despues": "1b72b2e34c198b9f2373b7a36da2df317382a6555eab36c2c06ec2a75454bdc9",
+"jugadores": 18
+},
+"176": {
+"antes": "0132d9a85d9f3b8b09b0f2cd657646af20f933dbfaf0ab3bf70f7490a2645428",
+"despues": "7c5adb4fca693697f0d5baa0121bd4fb3534653047b09517700021d6935a6a4a",
+"jugadores": 15
+},
+"177": {
+"antes": "9c2cb8a902544dda902a475c2f117ada1db99cc5f60ca14ff6256fc8ac8666c4",
+"despues": "3702f8e2758c4cc97eab353d9b6dc16832c20a6cfd5b34d7f0b99ad3697ec1a8",
+"jugadores": 10
+},
+"178": {
+"antes": "b0de7eac733507973e014741e97bfb569c6304f5d009dad6d512d9b659e429da",
+"despues": "471fd2607dd5539d9abd43a2ed99ffcfed58a73c18af4d48877c5b07676d8ed8",
+"jugadores": 6
+},
+"179": {
+"antes": "0a5568963e0043ca69252bebc71b4b3b8d478f599301bda697f4cb31733d5bc9",
+"despues": "22853004266134e4416e856f73d5fe4e024738fb49f8996a7b079a213b45006e",
+"jugadores": 16
+},
+"180": {
+"antes": "9c37174d105bd0617f0bd7ea2d330e60b20b67eba5d61ab80657c1b30799161c",
+"despues": "0fbd5b5549cb384170baa5a38d1a59f94d70611cceccddfc198d3906f7ce33b5",
+"jugadores": 9
+},
+"181": {
+"antes": "78c2b812cf88b5c9a8275a98055bbf60a259f90115701b9ddd414f1172a116ef",
+"despues": "71fdc3598db3fd6fe837e4e8272f3f88528d4ff944fa297a5e3825d477fcd831",
+"jugadores": 16
+},
+"182": {
+"antes": "bd0a9e4d3b0c9ab38e1294a3165e20af37e79728bae82fbec2f2295c01393f34",
+"despues": "023b7ebc2ca9e2c0e3c0aa69a7e5ca9b30025a5d06b3782c7847eff46d13d8b8",
+"jugadores": 14
+},
+"183": {
+"antes": "8cf971cc3d194ca9883c8174c801bdcdb0ffbf42621f2cef8b1fa126e9d28157",
+"despues": "daf6fb786744cea55c7c46354bf541bf70039ad7850d33caceae2c3f9013fab3",
+"jugadores": 9
+},
+"184": {
+"antes": "d2c3425062bb7b7e5440d3804ab1c5f4de5a24a0939036971f559a87f3509e8a",
+"despues": "84f1abfa6ef4bfc9d388968db245bbf51ccd9f6f449c545a4dd027b7815d8ee2",
+"jugadores": 8
+},
+"185": {
+"antes": "cab3a1fc709d42d645a8cd0c945f4c74f89daee4e235ff662fcbeac32de51b5a",
+"despues": "fa8fe9a7265892cbbaaab9cefaea889477b45c88160e4b22331c8f95f880a17a",
+"jugadores": 9
+},
+"186": {
+"antes": "7220ab862c898f26f12eb71f95033281f279047cada098e386c14d7c33c17975",
+"despues": "92cc3f9cb88b223caae0a1a17e3bc71a87255024086b40ace23cc6e9accb36e3",
+"jugadores": 20
+},
+"187": {
+"antes": "ba94bfc05d9cbf9d1ecc72ec77c79308b44c372e2839eaf93648af2609c08ce7",
+"despues": "a5a56d58ae54c9963df5028ee33aaed00871e3bfa3a3b6ce4827a46491dbbea5",
+"jugadores": 12
+},
+"188": {
+"antes": "63ef10d38440359716ef6d63c5d909aaf9bf6814f19e328cf518dc7985db7706",
+"despues": "bb809efc47a477bc283c9f9ad6c89c90815855c549e951c8785115ad08df1dd9",
+"jugadores": 13
+},
+"189": {
+"antes": "a09965a652fd28bcd94f82a0b7b58fb33475b4045df1c62fc21ca89ad9db52aa",
+"despues": "43855118926399ce95b3b2c99bacd27d42b9e64cee90473532398f987fefd0f2",
+"jugadores": 11
+},
+"190": {
+"antes": "14994978098460b47dd467ff71df7ece7eaf043b3733374f964d597452d5a058",
+"despues": "b78561256e7f2130b8f903aa575524fa3be1b0b41d25974e3be97fe752905b57",
+"jugadores": 12
+},
+"191": {
+"antes": "29d8d9ee53724d3b8643b7061eb822230042f3877d22b2d0fb70dde4a3ded4ee",
+"despues": "51a3c30ceafd10ab48abd94e544833c35011dc00ab92b3be1c0ab91861ee05ab",
+"jugadores": 9
+},
+"192": {
+"antes": "bfc2b25e34cc425e444adc743120bb7784cb79eb34d5c30bc95daac4c660f7f1",
+"despues": "27936592b0a4ca5f363353e61632520b36d2a0780b24953dc63213c5bfc17a7b",
+"jugadores": 18
+},
+"193": {
+"antes": "4da3ac48fd719bab23b5cc85e5a791b6158e6a3a10653a086e95afdd4d0fea9a",
+"despues": "5c44484dd3a5f7c6b3e586f557723f94f7eb36303d93f1d40fe0ab2600186782",
+"jugadores": 7
+},
+"194": {
+"antes": "745d339f19976708aff9a3389985340c980f9b549365c74466a4f5e93e342c53",
+"despues": "7dd230cbe4087e31e0a49eb31cd308772f2cb2efbd51f4e106213bdf345325b4",
+"jugadores": 12
+},
+"195": {
+"antes": "979671cbe36906111a67d2a8342b94158e31269475bb1d713de29ecc21167a03",
+"despues": "88f51d13da011fae654cdf7942ffa1a822588342eaf16d2f5b42d63a9f9b98d9",
+"jugadores": 14
+},
+"196": {
+"antes": "26a8dc6ab842ac940e246d4ed83cb6d4c2877ad4ba57b93ac6856080cc7dfa74",
+"despues": "cf8977997a28a30f9f14baed7abac9a8bbfb0a99ded2ab3a90c319771d4172e7",
+"jugadores": 7
+},
+"197": {
+"antes": "5e1b04ce3f806e0374636a8e7bc33a361032882956db4eebb4abf0623c0db023",
+"despues": "28ad76618bab731e73d74ddc55e9b943fefe84a17323f8cf662000a9f6cb6089",
+"jugadores": 13
+},
+"198": {
+"antes": "de8c0c891188ff6e7ca7c7497f669e2225362ae93cf77e7ddd0a661d4b815737",
+"despues": "3ef30bb4956576e0649263bc7d03193a9ca92ea8495100158fe49175790eb36e",
+"jugadores": 10
+},
+"199": {
+"antes": "0daf1c2a7066ad8d75842799ed6dba765adc306ae18459cee3fc2ffc1f8eaf8f",
+"despues": "5c6b30b3ae3706b44985e1379b4941a9c7d47cd7b06e6b20a72fa05c6f6f096f",
+"jugadores": 14
+},
+"200": {
+"antes": "2460e1f7f2fad64e41f8903c7f052342e367e29fbbe22bbd6c6b55aea61b97d4",
+"despues": "0ae10a880a4d7ceff8774bfe018af8d9dc578a6af9b01f5c5a24e08a7333313d",
+"jugadores": 15
+},
+"201": {
+"antes": "7fe62fd6c68ac77c0bd8b1a5213b1f9fae678d9b087f818915ffe6c6e9acef4f",
+"despues": "a28d729689abdbb8f537766d0243a2d998421277e3c8a3167586451da7426785",
+"jugadores": 11
+},
+"202": {
+"antes": "2e9698d9c62e7b7a5940f9c1824477cd2d4246480a368609179f7d96a8868def",
+"despues": "a2213c5fd525321ef1d93cd57cc08377260c9f44b001585c96f6a211b1976331",
+"jugadores": 12
+},
+"203": {
+"antes": "bb9ac331d6e65dd032ebc122a74953bdac0acf0174d761c0b261259601807fad",
+"despues": "ee890061d0805dd455cd0a295223df5b5b5f83d458a2cbf786bc6b669093b26c",
+"jugadores": 13
+},
+"204": {
+"antes": "b62c777dac7ffa572c9129a12656aa0eade47b1cd97350874738f751d7b3affe",
+"despues": "c037f3ee406cc3d15c52785551e8d5772130b3979e5581cd5981868ba74c97ea",
+"jugadores": 19
+},
+"205": {
+"antes": "e526f8c85ff1802df126d7267b861eac07ef72e5e383094cfc5b62c0b4da2500",
+"despues": "ab3b10bed197780c3d1a9cc895a7cafcbe7632c0664fbc00a0b76ad42e11dae9",
+"jugadores": 17
+},
+"206": {
+"antes": "64f306c25417b21d874544de55fc78a42458d58f84a0321120e441ef8b070e61",
+"despues": "d1ba99f915a9206c5713edf6577fede38f622be04b09f54b4fcae1cd233fddae",
+"jugadores": 12
+},
+"207": {
+"antes": "e4f11db476059c1db945f59c5ccdbd944e1af6be02f7c9e62aa0e6096279b090",
+"despues": "2e90a70b0255c51d95ed5777c47002cc4a0b0c3431554219acef38347f9f6208",
+"jugadores": 19
+},
+"208": {
+"antes": "c79dd37dc7b466b889e79d38ff303b41a835386eda7da9108ff9b4b92f455986",
+"despues": "c8b91001e87147cd3975331271d48f440f678c02a2a24d1a760518bdfdab78c8",
+"jugadores": 6
+},
+"209": {
+"antes": "22a17d0dd0fc72dcab448cf11ede61f1c18517124974dd5ed64d862da8ddd345",
+"despues": "df2edc2ea81b5026837806dceec4614fc8f901feb103b79542e9b82b7dd9f30d",
+"jugadores": 11
+},
+"210": {
+"antes": "3aef3a1397d965c73215850f33c4c463b77928612d670a2df79988edbd22b836",
+"despues": "b5fb06bf3da651f23e4b4e6a08ad4eac31dc956f446375f6ca06cc26a33c2ceb",
+"jugadores": 12
+},
+"211": {
+"antes": "5b45161f66d9d54e19b5c1c29546c5b63f4b29b07fc162c909e55210f4f72012",
+"despues": "876c34d3151d01d93b14e87ab0df9b86a5d74a66db6564f80ac8dd4a7e060282",
+"jugadores": 14
+},
+"212": {
+"antes": "71f56bb172115b03feb49f7bea5eadb97ab4a0818a4880c0aa2016470eea1330",
+"despues": "fe4fe58586d600bcf2839f237ca692179c77872c20190685a3c2057fe24c896e",
+"jugadores": 13
+},
+"213": {
+"antes": "ab00e961a62393a0d84c2eed9fa79698cdb37f54c38c3431d7ae16c0773f31c8",
+"despues": "9ef11297c79d078af8fd521127c9d4a707ed4abb78b01e289f34e1cd11753633",
+"jugadores": 14
+},
+"214": {
+"antes": "a26516a987bc12d88064519fcc1d9dcbbf477c13ed234bd65cf5450947ca203f",
+"despues": "77181865419248729c82d9f2253c51cc21a75512770df9518b740d4ecd7dc540",
+"jugadores": 11
+},
+"215": {
+"antes": "0fbf4941c04503d85b2538e8242f73a4131dc60aa15cee3e22323b007affa90c",
+"despues": "721f1264dba07c0fb48ccf26bad9bc127cec44e9644dcae8c5a9453013734d1e",
+"jugadores": 4
+},
+"216": {
+"antes": "22e7586bff067f23f722e6495dd83173a92094ad82df468798f027886f164ba0",
+"despues": "fced0bedd9e61ad834385b7e19d123baa1239f3373a5c279581928a0cc701e5d",
+"jugadores": 16
+},
+"217": {
+"antes": "30e491e305b4c21e66fed228493aa7d224f9967d2004e750c79a464c4d765f13",
+"despues": "89503a6276241b035d802e77ac86d81c21f038154ac80784b3e4786fb2b0cdc9",
+"jugadores": 14
+},
+"218": {
+"antes": "f195454881c1ba71c8328762735eb72b573716da31da3fa368e64686181ef690",
+"despues": "11bb9b388e8754a0043c9444c36b979417ad2521fbaec8ce15913b5826a24920",
+"jugadores": 16
+},
+"219": {
+"antes": "b646fd9d96a9f09d1df7706d9f4514dcf1f3bc55d39a8577d2468062fd79e041",
+"despues": "a9c93775fc671a08d1ed206dc50f61ba4addbfcad09995e0c8296f39980aa476",
+"jugadores": 17
+},
+"220": {
+"antes": "259125f683015c43a11061e0b472534c34f73755f98d38e64dafc68021b2dabf",
+"despues": "4f85cd24abc4eac3bd28c9d8b8461cb42c9b7e369c81bdfaa17922d246186a92",
+"jugadores": 16
+},
+"221": {
+"antes": "21e4f58b431aec07b07b331cb818e3f3d45d6b12d9d4bbec0bff768fd177fb7d",
+"despues": "abec09aae42467586e4291ba6f58034e444de38efd2f585b41fc764d67350461",
+"jugadores": 10
+},
+"222": {
+"antes": "9bf89a56bb78b2c3ce450ec36c5adf0302f448e07f8ed8f643f78de85f21fe01",
+"despues": "dfeea9c85aa741c9ed00af1e27d61d0ee48b037a4eaf481b1376aaa6488cf805",
+"jugadores": 11
+},
+"223": {
+"antes": "ba40f9818b0f4e4fa6b6375f38f5b96d832d7afa908df8024a61b83a54cd5a5e",
+"despues": "50fa32cc0d05f2a567e620501d174b4c2814a5e114621ac4b003bc009fa74d85",
+"jugadores": 10
+},
+"224": {
+"antes": "34d93c1614b2730af631e08a562b75d10fc5930422b2efaacfa6f338b0955539",
+"despues": "041a9e838dc1abe1549873dfe7676751e6068ad895fa0855083b02aed7c77c61",
+"jugadores": 7
+},
+"225": {
+"antes": "3415f08de6d8a7b56c5c8a114c1c46a7752a8b1c0b8b0326167386c976b37a68",
+"despues": "e02d53327fb9973b74a09f2c76cb7bac6860245a037a3acb3f66b471b88465ae",
+"jugadores": 9
+},
+"226": {
+"antes": "03a46b438ef1500ab61abcc09710c38446b48f01c083e297b4b7b211dbbcff1a",
+"despues": "b437b8ce6749c45c3f3a313771d6f2bd34ca809bf009fdc6c2df721fed4f4f7a",
+"jugadores": 12
+},
+"227": {
+"antes": "6e091758a12465ad83f7f5c63f542e6452121e8023428f0bb224b055801cdb14",
+"despues": "ba4b3d2a44934184c79482a3e863f71019452cac8a3261a2d78f62c4dedaa004",
+"jugadores": 14
+},
+"228": {
+"antes": "628da8826ac9df64b2f13c896c32431d8e5088d5e008a4aea36aa62f5bff0a06",
+"despues": "bfbcefc334222c81e2ad26c463c969771736d129c88074c16dc7f99c5cfeeb81",
+"jugadores": 12
+},
+"229": {
+"antes": "b59b71609b7ac24e6cf0caa6d613e54f80626fdc04f220398bca54e764a84660",
+"despues": "38677b37b5505f6e7a2e707a1b0d45378e93cddcb40129a0e2e25763aa3a1531",
+"jugadores": 14
+},
+"230": {
+"antes": "6b07d9a017e34b878d06619e0b94942abf7d4718dcd3472036a00db4e8f7115a",
+"despues": "da42f68947dd7a2189bd6bb0a665b65e31ffd7c855945a13a6fe14537d61a403",
+"jugadores": 14
+},
+"231": {
+"antes": "ab62a9f61d30bdebc73181ebd91852f04e9d7c3352d8d57748e9eb331e75e67a",
+"despues": "9254e413d1bab893bd95b9b674e66295e72c786ab4364916cf36802db16d5697",
+"jugadores": 21
+},
+"232": {
+"antes": "50dbf419b377f9e75536c1ed03663f77c7399667169a24e32d76469bc5e70de9",
+"despues": "1cf7972fc9ca6e126a668ac2f69033c00efc8f21fe352f42169603604a535636",
+"jugadores": 17
+},
+"233": {
+"antes": "f234fdeac1a060e91fab24c0125ba939e9a12fcf0fb0af0e83fe968149bd2b7b",
+"despues": "016783753319f56259f5b1fc757d92bb5331b0112c7a7ada830a3c3cbb9ab7a7",
+"jugadores": 13
+},
+"234": {
+"antes": "2a62e37153cb7bcc7177f659d13ae60dbcca8fd035549b6eaac003d26a3023e6",
+"despues": "757633a7c6b4a7ee2f1da27d38e6a097ba3da04eee8d349c7f680302068fd093",
+"jugadores": 10
+},
+"235": {
+"antes": "58be90cdb40f1606e26c0d28f414adc36642de008ce6677c59bba8fa3713f1d1",
+"despues": "bade59827fce8c9219543c72995f38ade9961000646cf34395f55a27ae6f0c5e",
+"jugadores": 19
+},
+"236": {
+"antes": "27f5d878d56da6b4185e7301bb1588489d1091ad50ac0b5d901c36823c348295",
+"despues": "67dd40abf2072634108dac7fc0ec95c488ec93d7dd5bbcdc72e6fa793492176e",
+"jugadores": 10
+},
+"237": {
+"antes": "667e3e8458b9fef622b7122d52494d4479c524b6379d907a1cd3c8ddc1f41984",
+"despues": "2b5160ecb24b4ed2a07630a3e2dc2f9ee219cba2f57401bcbc8a68ba36a5b469",
+"jugadores": 14
+},
+"238": {
+"antes": "24f71ff0da57443684197d51f8b0c278628709cf176571203cc9ad2ee0cc3dbf",
+"despues": "68856bc10e557e63de7c825212168dfe2cadd1624b6fdec4f29db6f9156431f0",
+"jugadores": 13
+},
+"239": {
+"antes": "f812103259a8ae6d9dfcd99cc37b90570787470f18012ec14992fe924dc15ddc",
+"despues": "cc477f13677fcf18d78b28c3afa3e89b2224925d2f8aa227e2863f16a1fe1af6",
+"jugadores": 12
+},
+"240": {
+"antes": "4adf500d2885fa42a0a0c4b0bd297be60c9d6d2e06d59d66b3487f92084f25dc",
+"despues": "e02ebc69bf1e1f833ba97fac6b330cf78d6a84150984b95cea8adc33fc7c6376",
+"jugadores": 8
+},
+"241": {
+"antes": "8cacce4a7a10bae38f9752dcb56aa15179a2d1ab1c04d31cb7ca0d997aaab7b9",
+"despues": "4a4aeaef1dcfe84c42f070a02751b7f4e154cc2e16e8ceea0cd626ba9f12f700",
+"jugadores": 10
+},
+"242": {
+"antes": "d597ddaa4ff18c3d34d48c2bf4745e12880dfc9dce1c1fa38b7b64eb4ad233c4",
+"despues": "3af1a6fa7422204a7626a50d1eff421b9e60fe215e77a1a1e1fb064c0450ff0f",
+"jugadores": 8
+},
+"243": {
+"antes": "ff833a8772c2cd97ade937db9ba126418e889e2d995f055a778315673e315a24",
+"despues": "dfab59f4cd7f3f9b5302f17aad954c1664ddc9113aad0a7fdf8741b364b749d1",
+"jugadores": 15
+},
+"244": {
+"antes": "bec0fec8efb7b9e87788c046195988269cc4e7ab717299b918cc2f5b844d4ab9",
+"despues": "51d3c2658b527bcc9e9c03346704d56b2d8ef1ecbb7344beb296417754ca1402",
+"jugadores": 9
+},
+"245": {
+"antes": "e5bd1c18d603376cfc17571b4b6c4f0c5e98e93ff735747f9e29bab5fa5162fd",
+"despues": "375e06b91bea7ba6471c87ca611e8f2c6d87ab453a58b5e833a653aff2efee37",
+"jugadores": 23
+},
+"246": {
+"antes": "3cad96666815755823b9708d819dc17dee0cbf5d026e8c3dd822a49a2ad6df48",
+"despues": "9596b84d7eade8279b0148ebee8e7593a857145edcdc702f39c77204ca85cd7a",
+"jugadores": 14
+},
+"247": {
+"antes": "eab4974c71558d2fc448798a4efc21c313f940e00634a76cd16a081bac373203",
+"despues": "e8cefb7cabd6a54dbb1be94fe7a3a2adae17809840a4b962a783c460fa60fe33",
+"jugadores": 11
+},
+"248": {
+"antes": "3cdaf4b8be497d066a37aa43fef154197de65773aa2001cc76d9314e92b83aa9",
+"despues": "7b9ec967f18dc298a8d922ca4d45f82bc3fdd47f3357853cabec635d64867476",
+"jugadores": 7
+},
+"249": {
+"antes": "81d393df167def8a59720597cffaa11f74cced7f17364ea927b99d2281af9a1c",
+"despues": "ce7345620c7a460bced46fa0127635137b67a887670b686473e4d32c4e307e50",
+"jugadores": 10
+},
+"250": {
+"antes": "d0d4678b7fcc9a66c504ce037f940ca595277c6923b41c7016184e4958be96d4",
+"despues": "138c118311bdcaa2189ff5ef6a3ff1971500fb95b7dba26fa1a26ffcf2b11e42",
+"jugadores": 7
+},
+"251": {
+"antes": "140f2138dfe54b1d2d8073d9254eec30bb181f92467961a77eacbc219c6bcae9",
+"despues": "f64d7ce2a2bff2cd9224539e5f59cb17c2277e370fa20aa6c7cfd72b526102b9",
+"jugadores": 16
+},
+"252": {
+"antes": "b64fbdd04f4a3e0f531f2b65cef775ebedeb5faefc6243e7923f29e06507db47",
+"despues": "67177d3b48e64bd33f8a89c9336649b1d497cffd4463985818511c5a27a47adc",
+"jugadores": 13
+},
+"253": {
+"antes": "975066b39c6fdd0d9e6cedf23a61cc2b387a6c4ee6d96c7d8b440602e4133995",
+"despues": "99a8972481c0d74d2c0c7f267d0a91f77223cd742bc82472c92298df4998cf6e",
+"jugadores": 14
+},
+"254": {
+"antes": "f22280e43b5b51af5f1dfe18dc32a54fa027c86e868e7102358bff83808c8fa0",
+"despues": "a0e17d2b7af2017ab40760794ab58a72971a2580b88e875fb3ffce834a0fa0d3",
+"jugadores": 10
+},
+"255": {
+"antes": "24c61fb5563dfe79a6ccceb41edb6218b2fa7c8e636fa962017a8d758468ccd7",
+"despues": "19584b03b5d2ccd3fe961cb8e9055bf50f2b8e9a10ac5047766420d9aa21cd91",
+"jugadores": 13
+},
+"256": {
+"antes": "2526e24f073e8f9e2bc75fea75423496841d277a0ced27b2d9a8fe588a480871",
+"despues": "53db32670f1ee824f3f561f7b3be46ae37b271abaf72832696c215ecb3ab6cc4",
+"jugadores": 7
+},
+"257": {
+"antes": "bba8534548e230855a33fc1412361a36fd89e39cc143bcd319a55922c1a82708",
+"despues": "9862d3741792404ba1f49daa58569b16dca9a4b08994125a2274208cf13b5225",
+"jugadores": 15
+},
+"258": {
+"antes": "17136a22b56835d94b2b35190df9ee934bf5dd5dbb656e29ae11a3cf85108b3f",
+"despues": "a2eb5d4955a64c9d7c56b36781f9a178880a9890095dec71086f1e111b1ae7ee",
+"jugadores": 10
+},
+"259": {
+"antes": "0a2bc036e5e3ea87d8963cc9b5f83ce228f91673a19231a7fe4dab1687384276",
+"despues": "da3c9b7418b729a314a1e814b2b49aa54e146fce9e47414a3f0088da1b8bbfcd",
+"jugadores": 14
+},
+"260": {
+"antes": "d6f0371f12cccf085903ccfd53c345f7337d266ff46a8b3b40d9d6439c65f399",
+"despues": "2cc489d719b4c59627ff388213ac28420cd25dbe3647b155db954a50765ca44e",
+"jugadores": 21
+},
+"261": {
+"antes": "9495f4530e2c47596e653fba20172e72db6048b533827473ca3b8b5588d7e05b",
+"despues": "f2ae9be66d91313e823e4ce3cd13986412eb9d0c61eec074d9c37bfec7e4d948",
+"jugadores": 12
+},
+"262": {
+"antes": "77e57225c45a117fb9d8b7f3b80957436ed2d1c64862fa74660810b08cc22d83",
+"despues": "7443b53459a0f361ea7854a0ceeb089c0d69e5d6390f35d8b30c9f6b1f0f2c61",
+"jugadores": 12
+},
+"263": {
+"antes": "7351ab0b9baeea870b42a60c99bb32a47d43579e6997c08129e7363590983f3f",
+"despues": "6a00ca3b10f0142292f93613f304fafa6bef6e1d317fd0d4e8d19fedc27d0625",
+"jugadores": 7
+},
+"264": {
+"antes": "96ed0e7653a7eae9128e3dbbad135ee1eafec3ee5969a6c851a0c33dda408e3c",
+"despues": "c1aea16a9a37168a30969bbd7a0cb2f9bd8c2743afc1588923c4fa4bf12f1235",
+"jugadores": 14
+},
+"265": {
+"antes": "faa1ecf43da12b25faf9dfea7a2097e7c69e307e61a0da815e5fceb1b3268c44",
+"despues": "14474522a6dda5ac2c6a650eb769792612e6f1fc0877b40e6a1793bfcbc44d45",
+"jugadores": 10
+},
+"266": {
+"antes": "907acd05332e2a082d9ba394a516a569604cb8f5b66b0b119c1de1a4ac05dac3",
+"despues": "46c3a2f460642a396da38bdce481bc4eb7423b4353b85c42a1d190ee3c0d4ff1",
+"jugadores": 18
+},
+"267": {
+"antes": "914cbdaeec4f5b935e1a253e57e4b4bebb45de2a3610c5a1778e83bda9d09bb4",
+"despues": "35e4b922cee57baad12bf2e199dd471ef2a07760457f3c96065852b2b8a5f468",
+"jugadores": 17
+},
+"268": {
+"antes": "191d80e56d03acfe30d1ea5caa8351184c91f61f23f4344a62de17b2ca19987f",
+"despues": "6dd97eec6dd26c951c5c551b3bca08418bc4a36018319197bcfa154b6695b639",
+"jugadores": 12
+},
+"269": {
+"antes": "595aa7cf7b61df1edb6adb853887b5555a6cccafa2e5988cf1d580255fe58464",
+"despues": "4c956f6918cd6165040a8ebaac6645ad17fd8cb72aaf914b38fdf591778e6659",
+"jugadores": 7
+},
+"270": {
+"antes": "24121c0f5af409364931190783c0f57e35bd100989a97b8ee4f38d9d5ee557cf",
+"despues": "f2a0297e8bfec84352d81b7065006a0c02dffbcd1f704df9377a4d0c92515d6e",
+"jugadores": 9
+},
+"271": {
+"antes": "5a78e9add4084418903d1028c2558127b44425b33a5f686504c0ea60a7b2faee",
+"despues": "309d394ba33f05e3d2633ed421c58e26e0df40d0969c8e17b1fc762d8bddb04b",
+"jugadores": 12
+},
+"272": {
+"antes": "75269be8fd4c06937e2acd2a10404e0a8210c3b6ba121b72aac6e5f7c3652cd8",
+"despues": "a51196068cdffd2b2b7c54487ff306b1511b37badfaf1c51015531ac4835b5de",
+"jugadores": 10
+},
+"273": {
+"antes": "108e9475b83ec456ded1524ccff1cbfc6c423890874bcc0e6c9deaf6c96e489a",
+"despues": "bfb13338bef2ea8822467a50f7a4033f679a7a56aab86cf63a9c3bf9c04ca323",
+"jugadores": 14
+},
+"274": {
+"antes": "13816fa55a88a1d9d7c2e82ded76f3700b459de9e8316f00699fa4cf046e42a5",
+"despues": "bee4162cf8a1d56268e8f8ad9be5cfc9e837c98c3231c8ceb3218c1af6b809d4",
+"jugadores": 16
+},
+"275": {
+"antes": "27d7f5c004850f2be1fcaae4399262915fde6ab1a6fb9e4a362c334f0315a55e",
+"despues": "b25d1bd513900e8b56923acd65a7903812a283b255024f3d51e3445ab2f7cc7a",
+"jugadores": 11
+},
+"276": {
+"antes": "805ff7e3c748433d2e1edc762dddc60588dd3c673bab11fbaed1a00beaaf26c6",
+"despues": "d54c425d5dd951b526c5c7d470394f69e006ae8333f99593b7f9798674107950",
+"jugadores": 16
+},
+"277": {
+"antes": "52ea97b362944e017523d05118ca3362f4dd9985d5d339bfa1ee7a7ad58d1a5a",
+"despues": "a6331326698c374cbf6231412c88206bb504d784299a379d0908491947aa25b9",
+"jugadores": 12
+},
+"278": {
+"antes": "090bb9bb0cebdac3a12277a6f6e09a11963661b5ce058824d95db5fe9cc6ddb8",
+"despues": "4a271689936bc1c70e91867e73e759ac634a62457b2665e8f871c10456eea313",
+"jugadores": 10
+},
+"279": {
+"antes": "1aa33cb57179f95c05b46a92ec5f2216f2d7b73f88b620dff2cd4c57f395251b",
+"despues": "baf63a9725767a4fac07c15308d8d847f809d5614209fb3ccf67e98112383272",
+"jugadores": 14
+},
+"280": {
+"antes": "c1e3ea586d34e316b6504b3e1352bd1bd2d716180afdc28b7720d6387e30ca81",
+"despues": "03ea39b0f9345cdd0ab83d7bc5078bcb3e4f15cb77eed744627d0ddf551bb0f2",
+"jugadores": 13
+},
+"281": {
+"antes": "df08ed0bcf950d5918ba0afcd91e0dd0742f6e98360b29ed03f266e4c0ae1839",
+"despues": "b31ae7da80ea47078cdb58223f938909fe02c3cec8b5db6b08e618ab4311e4f1",
+"jugadores": 9
+},
+"282": {
+"antes": "49e5e316c41dd5aafe331b5a293aeec9227b6c535c9217e878031c4c64d683b6",
+"despues": "653b01bcfe31b1f061b1c6abbc1cae26346158b2e32e3674b1dadb312380e722",
+"jugadores": 10
+},
+"283": {
+"antes": "e735ad66dc9ee8cbf353e2667f823be854903bd5d520966e49ae35f389a82848",
+"despues": "c4aac188d0d1c9ad696ec20649704d6df2139f66a9913861be655d262b4f195f",
+"jugadores": 13
+},
+"284": {
+"antes": "af2cbb28667e72bf921328cc7050a592d8f6abc5d9c322bf61d0896abde3a81a",
+"despues": "e6e05392f412d1f6889f8adece05980a13b68b3012512139fe0f9f28733be8f1",
+"jugadores": 4
+},
+"285": {
+"antes": "f2eb7b704629a5bcd46c2da53bb0acf7cfbb98d5c3550e4194cad1359a7502fe",
+"despues": "a0c924675b06d64c916128b93689d7c4bb7b3a32926649fa6193e1a388daf1e6",
+"jugadores": 19
+},
+"286": {
+"antes": "9dbe67acb1ec5dd804d0038407da7be144a25fc0705f18de320adb2c3d5779e2",
+"despues": "4e94501024027f921ef9b7d698c3138245ac38cf4799bf2e57b983a9193bd8dd",
+"jugadores": 11
+},
+"287": {
+"antes": "24862f8701d7cc63ef571eced47b9ede99ce932ef1d68fd9e726d4272a6481d4",
+"despues": "6afe540033b1acf19d206cf28c8f3717c86f4e6d250d19ad9d5f3628216045fb",
+"jugadores": 13
+},
+"288": {
+"antes": "1e1b8514a603857b9609cc75af176bdc2ff8aec24423c50e4eae2c35fee3c447",
+"despues": "157728fcb7391aea3fdefab9d51e8de7ecf41ef54cb4f7f3febf08be17a764a5",
+"jugadores": 5
+},
+"289": {
+"antes": "cb671dfcdbdf39bce0c4a68ccaf00d8af3850b15b941bf53941f1d3d59f22603",
+"despues": "a259c4c4f1d265d417570c0acbdbbf312998cc4587398dca891f76d73304f3b4",
+"jugadores": 10
+},
+"290": {
+"antes": "b96c816783a9e934738e1e44275906291c8b16ab1a8c876d6b330cd7cea7b599",
+"despues": "7a9bc53f480d10e0b21e0a1b0e73075cbb92d86e2829be440b8d4d9081c6738b",
+"jugadores": 14
+},
+"291": {
+"antes": "84c433b5b2f8826020a05960b2c5f662bee13567c57bb3dd2de06beeaa3e2171",
+"despues": "c66a9a9c7436d2facf737d710f06a61ab51ab3cc4fdd145a91992ba0b7202324",
+"jugadores": 11
+},
+"292": {
+"antes": "c341e3e8ade6e987867074a3711ab49d352dc24f1f95a4f153de157d653e1ba2",
+"despues": "b5bc5593d7871015b551223b61776c66d4b331e4a26e7d510b27889f3a2de343",
+"jugadores": 18
+},
+"293": {
+"antes": "51d4d9e11b95ea7562545005c212879e3810202b46ec897daf5236864e9f7a64",
+"despues": "a15d46c792ae38562d16c391f123108572b2dbc16df1cb25f099cf53d4fbb7f6",
+"jugadores": 15
+},
+"294": {
+"antes": "73450a0d9a67a22677f79907fa64c6e3a81d2ad9f2a5a03c1e621c280b02aa92",
+"despues": "36fb05c3827f12ebec3d80bcfee0e8d12243e571a085fd300a658f6b632bffec",
+"jugadores": 8
+},
+"295": {
+"antes": "1a816ec01cfc73727cebfce7326b136630875bbf69d3d23765934b5d4dc0daaf",
+"despues": "bfe2a0dc86fae253325d55f05cc867e7ae21965ffd6a4fcee40fd11e8599d170",
+"jugadores": 12
+},
+"296": {
+"antes": "e061342ebb3650d192933242d339225a258b94bf3a312e7614a88cbf678341e8",
+"despues": "e5c375f4ac1f681aa63a3f640898bad39171f9920d29b1853a867b104b87bd9d",
+"jugadores": 16
+},
+"297": {
+"antes": "8c202ee2af4a8d4d44ac9c38bd6e17b2832f148ecd2e932782220f126a29cb3c",
+"despues": "be007903d7a8494b45fd828c62eb56d1c513301579da3d18cbd73097139b7f3e",
+"jugadores": 12
+},
+"298": {
+"antes": "7e519ae1c2424c69e3aadaf8636ec12321dd7484536f695bff50b25f2f34292d",
+"despues": "743cfbb7140516d0e443caa55daac2152026cf18dc5bc934096ef63ee5830514",
+"jugadores": 16
+},
+"299": {
+"antes": "2eeab25d0417ac650c4ad47ef748e743e943d87a1f5e2e74876e7f0f28bf26bb",
+"despues": "f3e0789410e1cfc58196e2d4e35dd5020f6e857ca2fe133bb1df92a506d4ad0c",
+"jugadores": 16
+},
+"300": {
+"antes": "b411a94e880566fe6be5e79212436c0a616dacf71fd979e928b74d7d1fb5cfea",
+"despues": "5ee58b57c1c5210bdf95fdce178124093db9d25ae6d68117613f7c34fe98193e",
+"jugadores": 13
+},
+"301": {
+"antes": "66cf90cf4be2d60c5500766ceb29155963ac755096bd2f9c0d2493f1763b87df",
+"despues": "8d7776eb3848573da0f80cdde757f476da9a0a290b41aa8fcca3b967cba384df",
+"jugadores": 13
+},
+"302": {
+"antes": "65d23fdbfbccb76a9af04012daf98bf35163aa3631ec473abf9084e5769fe036",
+"despues": "67f203888ef14f989eca7fd689bf7fb45c4e770b3d2ea1447b1e2bf0924b0fc7",
+"jugadores": 17
+},
+"303": {
+"antes": "e649cafc1f320cbf22d5aa1135a12ad45ea0e98ba7fafb47d9412cf222946e33",
+"despues": "c559853e2d673dabb15b05201bae2f120d95741916fd3c9f68008383c56b933a",
+"jugadores": 11
+},
+"304": {
+"antes": "2169c9baa571a11458bae7ac025ef6f447f03da79696526ea6a91cdf426101a7",
+"despues": "a0462919eef90990cae263fd5e36394fe12328b6bced1dacd719e807f4a35b2b",
+"jugadores": 10
+},
+"305": {
+"antes": "dddd51f464d1b9079f94b16a69b9517eaa874ae5eb3320752d7f82ea1c366634",
+"despues": "e80a0c81cf8b9fe44498404c8d45dc24f3815c2f39f429d363fe3ceade0a44bb",
+"jugadores": 12
+},
+"306": {
+"antes": "3566b2f4c8ff3b3710e6e7ca92530598b5fe2c57120f5ffd7d3ef6e7bc88870d",
+"despues": "15c24caa4a30c0eed9d10d2bfca8a8989860d23be5f3f28c0a0342ed15a8a455",
+"jugadores": 13
+},
+"307": {
+"antes": "319ca269b95692e75a9e57a4bf71cc6a424e0050671fcc6570ae5082e36e0e0b",
+"despues": "ca011d5523af01b2a955ca4ba0dd5b3df9a8ee249dce09f728350939b83257e4",
+"jugadores": 9
+},
+"308": {
+"antes": "cc5da81654c8e8f6c04e07a8786fcef82ca14ac068bcde8bb59eb528d18f7767",
+"despues": "1d657cbeaf8f83a1bdbf712a10fd3eeeee9b6751250f2bc2849bfc538968e70b",
+"jugadores": 13
+},
+"309": {
+"antes": "08a6ec1e5cae16e383c9623a060cfad6289b104c509fc944b06a929ef150c647",
+"despues": "5f8dcdeea6bcfaec24d209d836710e3f1f7f42c15a4e6885b43fa4b0699754e4",
+"jugadores": 17
+},
+"310": {
+"antes": "377c200b1a8a7ed136f5c115c1f63eb0fce7cb335bc0d088b13173b1705f2e06",
+"despues": "e6ab3cf1d4402a872a483f69f388544e286b624793c081b7fa2d3765713045f9",
+"jugadores": 11
+},
+"311": {
+"antes": "0cd91484eeb545ba2eb0225f44df3c9e8414a0d3d4769adf77d39d084c74e9b1",
+"despues": "b6020a78be1e2c1c0b3b208a4bbc677b08f1ebc272d082be8f69c9023d1d8caa",
+"jugadores": 12
+},
+"312": {
+"antes": "c40cea965484c2bda31fd534fb2fd81c00b821666d303405362043bf0282e4ea",
+"despues": "c7230c83b80191c8442a38726aa49be4835d5a78deea813850941fc5f5f1cfdb",
+"jugadores": 13
+},
+"313": {
+"antes": "c07caa75488894b7709a54f04b3adc12cf29abaa35ad3f964926d9fc29f351b2",
+"despues": "5ddd6b9aebeb4a16869251e5fcd1a2821a490d4a8c5b4d08a8229e2ec61e0c08",
+"jugadores": 16
+},
+"314": {
+"antes": "d013a7a77ef6aacb3a78945942d1643d94bf33285d6840a35c62d43561304945",
+"despues": "aea003bcfc10d90730ea573252816fd8d46173bfa361e51c59f0d6a98b5363ac",
+"jugadores": 16
+},
+"315": {
+"antes": "513ea502621b79b4eaf0f09907a950cf8ef354cea98c0d1de1513332b9f1db4f",
+"despues": "b273ee564ad8d7bd8aa750ef7ec6a122ada738dc9beb65f6d6013856b3d3156d",
+"jugadores": 8
+},
+"316": {
+"antes": "bb7621cc49ce1553081c00146535f4a640c69a7719450db8ea8e296a83e69684",
+"despues": "9b9ecfc0937448be9cf2785fd6f152d5fa58d877dc7bd29e0c3e7486980d9996",
+"jugadores": 15
+},
+"317": {
+"antes": "48563e9bd292911731814b19048a49f2dd68dfb0e2085cabc31a0a0fdc95dd6f",
+"despues": "50a8d0bf2fa0b35d07b2925d21474c3eb80ec7153ea98bd844c29808b59e9b1b",
+"jugadores": 8
+},
+"318": {
+"antes": "eb19470e1b275b2c2173e8068facfd7cb17f537b93670b89870d3708107ed60e",
+"despues": "84a1dc1460ad038a6df6b24b6d66f1ff650954480cc8e1d11961bdf187e40418",
+"jugadores": 7
+},
+"319": {
+"antes": "cc2bdf09cc2606e5d86fedfdf3bca60b680d1ffb1760e1e0664e06d7badf4df5",
+"despues": "536208fe4f7c9fc9fdeb16f21f8f462a91dc97181bd91b7adc476acad43fbbc3",
+"jugadores": 19
+},
+"320": {
+"antes": "1ead7c34a8800f7f643847acc5b629acb7f81c2a3478513042589027e7696774",
+"despues": "2d4bddc4d4e8ac2155bc1c75869781caca109466b6460da5fca584aec4b9ecab",
+"jugadores": 7
+},
+"321": {
+"antes": "e535ffe9e01b6234c6cc1e5a75cb78d21bfa71f684b05f9c7b1dfc0781045b5a",
+"despues": "77a076cf4ea9bcb771114b04c231c2520b0615f2613f84361fce94c45676f07a",
+"jugadores": 10
+},
+"322": {
+"antes": "0c6ba30c0eda0fd790b3587c6265ba3955bc43f99594dfe8ce63dd2f4fdc2be9",
+"despues": "917326fbe13727595c8813b807be22f3f11f91df643ec8bf44d30955e93d4894",
+"jugadores": 11
+},
+"323": {
+"antes": "08efd222bc1e8694f6d568304eb109d5544ed5763da5fb0ecc3cfbd06cd4b80e",
+"despues": "f9483d5507ff3dd9c3ee3cbac0a7e47112219ded793bf3c06d84f1c4b7a04c3b",
+"jugadores": 14
+},
+"324": {
+"antes": "cd2ead292f0eccf2d578feaeeff8c53258dccb2fa2c38ee07c71f2c232cb055a",
+"despues": "920edd9c0663cb9ad58c6daefa82a56f9f7705a9338643b5610ba28e2f64e42d",
+"jugadores": 14
+},
+"325": {
+"antes": "d11062343bd7cc49ddb34babf529a7c911aebce80bef9e2fd885874dce793328",
+"despues": "df9db95f21c6c8f94b7217261767a48c39c60c482f86857bede7e3a2904ada42",
+"jugadores": 18
+},
+"326": {
+"antes": "9e813a9a6238bc6a4423bc2d86f9485caebc882166617609e64322a300b605e6",
+"despues": "801b104a5acb220fe0cb50a70a01872435b86893bdf0aacb474dcd1f221b3b6c",
+"jugadores": 9
+},
+"327": {
+"antes": "6648f400b14940121fe04414c7f4a9e6a4ba7648326d12b367f3fd77958ec08d",
+"despues": "9cd02f48b29e2f8ecfeb8b77e1e007dd1e210802764aba87d1ed223985333cb9",
+"jugadores": 15
+},
+"328": {
+"antes": "6ebc039f94b248e57d97ad2c9aa6e2f71920d414ddf5841de5f652e99d45a11e",
+"despues": "11bb4c7b18b0fb97d695b5418bb1256339ec4c97ed21818fde6abe905ee2b9e1",
+"jugadores": 19
+},
+"329": {
+"antes": "5559038ea5f59d9995290ca2a452d7f94f8966b6795a961272e2d034552d1fcb",
+"despues": "50e34daa6ff843ef0aa5554d7c76fbdf905d8901bb1775fbd4e9be8bab63019e",
+"jugadores": 14
+},
+"330": {
+"antes": "992b7eec68e06b9f8e9680d79c099ffc41560c219ad842843f7307aabfa1beb1",
+"despues": "9477128b54daf92077de3b880483e492558450dbd3b87f9234b0c4cd3dc6dfcf",
+"jugadores": 9
+},
+"331": {
+"antes": "507cc9d9e666935646221defd74dbeccce1e6d00f516de79e6b99547a12d3f04",
+"despues": "f8d55ff6b4d0d8f6fa579b48a2b99cd75ebe67deac14342bae4a75d5a4ce3e59",
+"jugadores": 17
+},
+"332": {
+"antes": "49c6eb968f0b4802b417925b47fea3a7a87fb98ebed96d64ba168996585326d9",
+"despues": "e1fe72b9a075fbab2065898a00294635913732dd5662c98687f4c84359b1f320",
+"jugadores": 10
+},
+"333": {
+"antes": "ba0f4326ac625e1c5e63036485b69ebebfa4bc43968542ecc455c7b4c6349d8c",
+"despues": "61ee05bc6bb462929e5b03fc5fcf571369439d503f1129c4a76cf4871858fbda",
+"jugadores": 13
+},
+"334": {
+"antes": "736f6e20f1612a4fb219bdb7c31b684852054e8bb00e7b762903f24a2f8a2285",
+"despues": "1b4359aeffd1e3be469ebcb53283904e95864d7640be09376e6a2156c462fe2e",
+"jugadores": 17
+},
+"335": {
+"antes": "44bfe2f52634c3bad39f6da2a46ea2498d5f9b80ecc1a716d5fd91c16032c260",
+"despues": "f0abfae8b172c1ab5b8670ef500471ee1bcec2cd3ca4905e539e197bb7746410",
+"jugadores": 10
+},
+"336": {
+"antes": "402c0f373b897745784cdfcab8e4a59b82e9a420b417b171ad3d73d53b2b147d",
+"despues": "2123d5c7a655f805a20a6013172f32512525bf6ad6da439aa0af9150161a51f1",
+"jugadores": 11
+},
+"337": {
+"antes": "1ced0934121f6560502c3d6e391991e3a124054bf397be1066ce32f296fd358f",
+"despues": "03cf8b622064c496329027a5439400d8a26e4f54d91e630793400b719c91abf5",
+"jugadores": 12
+},
+"338": {
+"antes": "e91591b02c3250bfcfea8ac6fa18fa6767cf93e622604d574c31e5f96856c3d5",
+"despues": "9408b685b6e2882a37e87e2ae755750b2fd690088e8ddfea0b551c5c02117aa3",
+"jugadores": 11
+},
+"339": {
+"antes": "45209825361283373109eddda7ca778eab24719274548326457ecfa4607a07da",
+"despues": "3ad8a8a478cca9d805ea50ced1f416c740c44a3e0451251eead4067c06224b51",
+"jugadores": 12
+},
+"340": {
+"antes": "472506a45d2acabbc68779e7b008abb157b51cfb577a0a5143d1102d1f39d53d",
+"despues": "d5316c7408b4dd56364eb3e9e2aa51787b0e2e4a9f9bb5599d5b682706209792",
+"jugadores": 12
+},
+"341": {
+"antes": "3a6dc4689420e9405deef55dc7dbf3480aaf7c171b4b80fa0ced2d9c8acf7570",
+"despues": "7ede7803ba641001ea843ac6e0fc3a733feec687a83d9c00db5dff77b5928b9d",
+"jugadores": 12
+},
+"342": {
+"antes": "fa620652b6bc9fb42714917df4da724e0ce8c5f712ff7ed09be9425620bd8879",
+"despues": "8bab02e15c019094b31887ec5990b66d0c1320c304e0b90f6f6f76bf02fa7068",
+"jugadores": 11
+},
+"343": {
+"antes": "bc33187aceaf67250f9329038e94783f69faec48ac9b48651b29de709b9056f8",
+"despues": "c2e909dfae4d55a41a03a6b86b22aec8d65ac96841b3d2810cad4a837e90c470",
+"jugadores": 12
+},
+"344": {
+"antes": "4e128f2758f95e1732d5d3f4d8cf83c451e5d14a543840e7efb082cb5c2f3f88",
+"despues": "47d7f50b1dbf460598cd1a482f0803b06ea9cd71bed287f7d886852e150afa97",
+"jugadores": 14
+},
+"345": {
+"antes": "27e5d76f7c886214e525284225d6c395f210940d1c6a87e85f6ad5372b67e2c6",
+"despues": "950f67029700050f8bc9c8ca75ef11ab127189cb841f12bd514d4cd48150be8e",
+"jugadores": 11
+},
+"346": {
+"antes": "ca372b74c3d653f2fb4b8016fc64ec92aae9f4faba32c1c5eb5eb3202139f824",
+"despues": "64038a775e4b0d12d4614b231093e36cd280b705105d307a0c68789c26f09bb9",
+"jugadores": 9
+},
+"347": {
+"antes": "ae88394f91a424261f13a12c36a50ebe8bf70b26944438e3798dfc6c3c68b272",
+"despues": "0961827e643ec114f80dac0f9930b2884affcc72909a4a1fd38541692e543feb",
+"jugadores": 14
+},
+"348": {
+"antes": "96940a61ab6e8428ed84e528ea614e2c6d736bcd6dff1f3df19082301c298ba5",
+"despues": "1a03aab29145296adee71c9c827f13d5814264d50ee1b06ff221e62e010b6550",
+"jugadores": 8
+},
+"349": {
+"antes": "48e007b3cf1b5931ca4865ab154e3a9f913d1719f760bca9663c7197b3be6534",
+"despues": "d225436912f58ec0a3a54f6093a98984cc4aada45f6d6e82529a33e0c95e62fb",
+"jugadores": 16
+},
+"350": {
+"antes": "050a0ad30c55efd77ad17ca2191a11b02c2721225fe17506f0299c1b405942d3",
+"despues": "ca47f7afcc87fe092b1fbb792bd867d71e1e55844a4af7a0e1a8273ace5224d6",
+"jugadores": 8
+},
+"351": {
+"antes": "8d6bc0158e622e1e31205cc24c241f62b9c7a3405370bbff054118a1317b15ae",
+"despues": "19ebb74d40444f7eae79473aeb4913fe963f40e28aa2cd965ec13cdc40e60b4c",
+"jugadores": 12
+},
+"352": {
+"antes": "11cf6f1630992b6f80b8b7cf2bddbcc5bc1488302264c4e05072331937acd27e",
+"despues": "e0eca0532b8f321a754f8b71d5c2396c5bc67b643ac4d1c5bfb423b4c5e54a6c",
+"jugadores": 11
+},
+"353": {
+"antes": "7feac1cc9bdc9ff8c0707c7ceff7f6209cba3ba8d344bfd87eaeaa5ed54fc1dd",
+"despues": "31197ff49065d3e8f27afc768b80cfc110cda502fc824e4343def72fa21338f3",
+"jugadores": 9
+},
+"354": {
+"antes": "d4cf48c2de932ac6c74fc5e28b5d17676217ef89e40d00fec573498ecaf8e406",
+"despues": "fc8d8059f512d5fc7a2eae80691225111841a8624aa738d722e81da8b778e5a7",
+"jugadores": 13
+},
+"355": {
+"antes": "02db60167da72e6d7c5018565b5740d885d7c7c5ae3e939e12a876701f0cdb3d",
+"despues": "c462db6951d2dcdba76fba4705b41be09c05bfa7030b2e106ff8cdebe3149b82",
+"jugadores": 11
+},
+"356": {
+"antes": "0804cfc64413d6e816b5552b9bf0441d13abd1f85a364956d3d639d7e2856bfd",
+"despues": "967608b4452cf1abb7f9add9d1065473dd3903ad4930771b5b13845b2f960232",
+"jugadores": 12
+},
+"357": {
+"antes": "f3298764824ffb0504990fe8c39f15478642259148b4b1cd1c1ec3c54aac3158",
+"despues": "469702015053241eeef92ed9f1b92a94488708a7106e1555a3d2d2bfd19c3222",
+"jugadores": 13
+},
+"358": {
+"antes": "9a73d796c54ae8d6cc84ef0d494df6952b4666b722cc872d16a4743931a16dbf",
+"despues": "6e2a3b2a7410e4b5029201c069edb4c7e9ff50dad417809fc3ca0d02f51a6a01",
+"jugadores": 15
+},
+"359": {
+"antes": "bc30773ec783b8cc73f06d04dd46bb06e59ab5aa657bdef84f20cdeb7a5214fb",
+"despues": "3d5a1696b9425002140b9d315d6afa1c622926c1cdc17f4d12ff232d007c55ce",
+"jugadores": 10
+},
+"360": {
+"antes": "07e6cbc3bc9e3efd28120cabd185ed409273ec369b15ceb79a12bf8a32a7750d",
+"despues": "758d0ca41c6b56a4ca0d054af31febddc7d08dc5abc16c1aa15d8863b9d02377",
+"jugadores": 17
+},
+"361": {
+"antes": "ffed51de2d7ffed14b41ec3c5025fa390ac31dc2a8ab63fb6d95e0fffd9553bb",
+"despues": "bcd2a7136516d53b2bd5dda922f2a327ce4ebb130235b65b993bb1b90273f451",
+"jugadores": 19
+},
+"362": {
+"antes": "a616b6e01db02f306f5d0160760e83c3bfa436653a486c4c6f46cb30fbb0a9cf",
+"despues": "05fd5ecc9cf5e87a4d28efa713e6bb309fa6b4744de715e3f0739c49fee98f6d",
+"jugadores": 19
+},
+"363": {
+"antes": "9dd4e50151d88c6ca1a8e0aa17b47341e784040cf14094db5d487c2e233a8112",
+"despues": "c2085f0bcea004178ec45eb3217129cc4e7818bbfc50a6f7e4e42377c5530be1",
+"jugadores": 15
+},
+"364": {
+"antes": "033cd904d4688ba5aa60144f5946be24820bb38d73670b7fc2f9418fbbc1aae5",
+"despues": "f0cf6258e80cdbd69e2b735cd955623b7bb9dcbdadf3709f806a8a36a8eb4a48",
+"jugadores": 10
+},
+"365": {
+"antes": "5197a3a346c2ae5bbb45ae75d5ecd0ba30bdc180ea37b52e051a24d20103e5a9",
+"despues": "b1372e8b03d0a19fd3591a3fdc7e8d2a397067bf7980ad0ff4b6dfc55803aaca",
+"jugadores": 11
+},
+"366": {
+"antes": "c4ed51d0e2eced699b7dd4dc09ef3aaa98d88fad704d08820203a051370ab503",
+"despues": "0dc36461fcb4b3b563fea7c98c520902c741643d98bcb80fe60b1b60b3ce2a9a",
+"jugadores": 10
+},
+"367": {
+"antes": "61c04232af5a7a9c54046f5939672f053b0ec5380f96407a9805611031cf0ee2",
+"despues": "db8291477a8d882d2484e735f7091f7a00c7ac71b3819e5f9ea41d9270a7fbff",
+"jugadores": 12
+},
+"368": {
+"antes": "17b037b762d5f0936905c1ad65884d206c5895da167b48d5cd6cf0fefb19e027",
+"despues": "b8ba4013d1d772e83993f15b89d308b30d850b29efeae6f677c8f1f929781307",
+"jugadores": 11
+},
+"369": {
+"antes": "1c0000057c85a87c7d10d0de78c2af0ca06524f99d65a4251591bda965a76479",
+"despues": "81b5ce2edccc44c5e9f95ab74de040bd43192faeb5f98c2f3bb443ba5cda507a",
+"jugadores": 19
+},
+"370": {
+"antes": "21d7a3718293438ae071f27081d7e23937cc43bd7780bb35183c48314cadfce4",
+"despues": "a154cb859bbd2d8f3064dc6fbfd578aa4e3010200ad191fe391c0bddd6230713",
+"jugadores": 12
+},
+"371": {
+"antes": "2c8667c8576a069a1f994d3af889ce305a4a26a0af32e059a3dcc8a776cd9f50",
+"despues": "800a84f9a681fb81f8e41f79f45fad4af4083c69022d1d9bfed1b630a2e1622f",
+"jugadores": 12
+},
+"372": {
+"antes": "1a3c28ae5e074cde911f2b2cac41fd3b7968eda11b7843efb45a3fbb42997b31",
+"despues": "8e5078bbb0338df81b8a1e8449ec3838c109297e13c224dca66a0da537d94308",
+"jugadores": 11
+},
+"373": {
+"antes": "13fc12a8ac14cd8dfa3fc0858af2128beb75ff7eee7bdabf40908e8b3a561590",
+"despues": "d242a4ead85ef9b91c7d67e4c24876eefbbb3a650bc9565deb1b4f1ed2c50de1",
+"jugadores": 16
+},
+"374": {
+"antes": "6f541577768a383bb3e1fdd2143a6252cea21fc5871e28544affe4332e10a845",
+"despues": "51fae151d015b2b140a773101e1e9ff7fec8a858a89f4aa53f3f199973b78b4a",
+"jugadores": 9
+},
+"375": {
+"antes": "f2e18c394ce3d4b7711fad28b76b81f29fa4b62e756cca98171d77264b34d71e",
+"despues": "2e728dc2e446d80f798945a40ef5a4bff753031c98856655a04412a508d946e3",
+"jugadores": 10
+},
+"376": {
+"antes": "70f579e2136695546737d8ecea2acf2ed2b170d57c2f5c36eadd436b1645df0a",
+"despues": "5e59ed4d12c348cf194b4461fa15f85ff4374a5f33629424798e8d8c05577c75",
+"jugadores": 12
+},
+"377": {
+"antes": "9fff21efbdb10bf3cd749648c0f2dedf359b628dabb7ceace03b5e07c4d69a65",
+"despues": "367a33ab0bae860a71add19751830af57b22f0c009f5efb86af3c8cabd8f2db0",
+"jugadores": 15
+},
+"378": {
+"antes": "5b66e4cfc984171158fa7da5e6aa1d07cb18aad192204bcb032831296419933e",
+"despues": "27e7f18995b8742dc18adc373634f71ebb85ac3aaffb2355aa133d5d0766d40a",
+"jugadores": 9
+},
+"379": {
+"antes": "ca4e8b4bbac8c21eb269737790fa334e9c4c683d9cefc2a2d143866351a84714",
+"despues": "ba7260014ba4e6d2021608a26755160da2e8782af40140d53621c127ef21de61",
+"jugadores": 11
+},
+"380": {
+"antes": "83d746cffa259342f196e6027b8f51ac71529cf24d1bd4aabce07be4d21fc689",
+"despues": "e7153d3af396416694e298ad5aac51713b3a8b3ab89db505b664c1feac21391c",
+"jugadores": 11
+},
+"381": {
+"antes": "1f853da457c40b610899d6cf63441339652dfb883414377485b8fc2accf4d9c7",
+"despues": "1ae9f0658cfe9ad09e61f9db82b2b7ec084cb5b710e5d499e24771de4f517fd8",
+"jugadores": 12
+},
+"382": {
+"antes": "46f25930ed46353d9db261793f43a1ab1e1f5de67ff00ee50bab9b0c3c32143a",
+"despues": "dc151162b60288461799aa304a18d933642aced5e2766de9caef9a40eae81156",
+"jugadores": 13
+},
+"383": {
+"antes": "c498089d1523423df3353bfaf1fca2d5717f520a275d94e589f7178569d96dbc",
+"despues": "fa7f8df29967cf6a475b211b00d06590062c23dbc66e9580224010c152f529ea",
+"jugadores": 10
+},
+"384": {
+"antes": "8759f3ad0766c3f28c70688a4d9c527b203757da5c8db8572bbc9efd7fb5ec59",
+"despues": "25d73dc1e2d4b5a0549af37eee4bf47ff06805a86fd3e2b0000cb202ddf37ab2",
+"jugadores": 9
+},
+"385": {
+"antes": "73309eab74fc22331e0bf9ec7b803bc1f36760ef4ff283ebe4fbb6936d4cf1dc",
+"despues": "170c24fb14f7c0c09bf3d3f14ac8c1e3fef7139bb7a21f0e8f8a342fbfbd82df",
+"jugadores": 18
+},
+"386": {
+"antes": "56bd42915a8cbd2dc45797045a8a8e285c17f5ca750d9ff9584eb8046e2d836a",
+"despues": "6762438f393dda55942da3dfa3db2c3a8e794b1ea00bdadb7a9ccee750a52344",
+"jugadores": 11
+},
+"387": {
+"antes": "65a9993950f34339b5ef433636d03763e79ae5fa94ac40cf0762fa8fd544de7e",
+"despues": "a5997adc64176f185c72c467535be892ccf71bef0ddffb6f88cb2292a71f584e",
+"jugadores": 16
+},
+"388": {
+"antes": "fae86ffb0c1792762c581423ea632a83569672000af8b4f176a38fb080b266d0",
+"despues": "4bd7884494dc384a486efbfee45f350abac0d6a735e9ed1dbc886714066c9999",
+"jugadores": 13
+},
+"389": {
+"antes": "00931e2e14221abf672f00dca8e7869ff9e84f177e50e186af9cf7f6c1187fe3",
+"despues": "a1ad2d4ec9a45fa77d4a2375956a634a0cd8b2ac21f2f70d6f62a78383351579",
+"jugadores": 9
+},
+"390": {
+"antes": "a8c182712b996554c867c0045a7474512e6da89a754613b026adde7746924307",
+"despues": "e0ddb7f68f73e2a381255435bccaedcc17235fd86ce9410505afda047e31fee1",
+"jugadores": 16
+},
+"391": {
+"antes": "adb31d85b3b319ceae1dc84d4324d80dc1c55e9a0b6e939a35962cea8a0d15c4",
+"despues": "1b0d349c523554000e534d7dc3db81fc063f1dc458ab23e16a1929d8a7f62f03",
+"jugadores": 8
+},
+"392": {
+"antes": "02465d5710615f39adabe2ba418defa1de39bce603063f7d25d6b357c1eeec25",
+"despues": "1edcca283f9843a9456e3df2fbce93a2e2c042a1def68621184d5138d5a4ded5",
+"jugadores": 14
+},
+"393": {
+"antes": "9077c00942dbfb608866a3bffe0c11bab189a1da5f1d68a960c6c1d1b1566bbc",
+"despues": "5db8cace83344ea161feba4b41db7b4540965966d08a1b2ad5567fc3a1bfc876",
+"jugadores": 17
+},
+"394": {
+"antes": "143ed84c1bfda379c21da1e58dd37a282f30427e874a854bac4a05ae4939445e",
+"despues": "5c7e2bfcf03a9a47a43a2f02272004bdc5623871281327d5051be8a4c8e95fc2",
+"jugadores": 8
+},
+"395": {
+"antes": "21ad56c058c26228fdf3ac1c8c6e20746852da88fa20d0bfc14c2e9cf33e2f8a",
+"despues": "a52dfaf217b5d196b7db5a16f83b01b97ade8debdb22140ee183809acea6fcb8",
+"jugadores": 8
+},
+"396": {
+"antes": "f1929fa74f4d41697e6ca2ea65de1a2c9384c6faadc76678c35ae918235e08fd",
+"despues": "354edd7b594ac55867e8691300905fbc97a4873ae43b413991211a63e5968810",
+"jugadores": 9
+},
+"397": {
+"antes": "fe72dbb5de0936b55b0cbb07b7b688e745e3d082a68b3e246a6c06a8ae23e20e",
+"despues": "f5a3a02d029aae740cc19f4bab7ce432e2094366d636d6a59151b8a3508f542e",
+"jugadores": 8
+},
+"398": {
+"antes": "c635d379117eab195b1a244eefdf2b55beacc0f1a3b4497d05a283323437f989",
+"despues": "19440c1487fae545aa1298f40687a9e02e45c1467e093c8e239da8e6ca965a09",
+"jugadores": 7
+},
+"399": {
+"antes": "617543bd76a520d7166b6275f876b885ee7b68e12ce3947ed617ad246023fb7e",
+"despues": "199d9930f0211a7f8cb6cff6dbdd3c0e6b8a1f4f4811b975974a01f7143c9239",
+"jugadores": 11
+},
+"400": {
+"antes": "562c955c2308f0de3d9501788290b2de4da87535e1bf66b55894273f4533f839",
+"despues": "7001a0b9f1da82e21b10dcd39f2fd406a18e88946192d8b238c9c4deb85f827b",
+"jugadores": 12
+},
+"401": {
+"antes": "d7eeeaf4882bf434b42d1ca6accc4914c1f89965d31b9b00115c2d7719daabe9",
+"despues": "aa28a8720129435e5a5b2870383b0b120c36034d8a8968baf6825873d2b01eaf",
+"jugadores": 13
+},
+"402": {
+"antes": "ae99180ef596f52f2011794177fb4e252e6b1f7f16fbb38b23434d77d6767622",
+"despues": "7ac56e3aa77e00c8ed4629964e14ed00aa860f0fb3daa8e0cc327e0f08453f4c",
+"jugadores": 15
+},
+"403": {
+"antes": "70509de782b5e9f427819cc4741d1bd9458a20c920647e594e8cd8ecf6bfeb37",
+"despues": "7afdb5aa24912d55e0509505e3645db1d3e48bffeb488ad821696cb9fe379918",
+"jugadores": 13
+},
+"404": {
+"antes": "a2be27cab58cb6ee9021c8b4c71009d9787760e4fed6be7da2cb3661ca852128",
+"despues": "86282df6207ae077e7ddb5657e3ae252aa02a24591c8ebbbc0a5ce26be06389a",
+"jugadores": 8
+},
+"405": {
+"antes": "bff1c87f3d3349a33968796a3c244d7464a79c18de29fc84e9fdd7ba96db6088",
+"despues": "06184ab4c6a44de65e79e72d928e36d233784a7c52bbbd077ea855bf7c1dc6aa",
+"jugadores": 14
+},
+"406": {
+"antes": "5521bad8e1951f41a1d5412ce2eeb8d6f0a3730ac6098351c3efb6ff8fb8af0f",
+"despues": "67e12a416cafc6cd94a9ce9c466cf764d5ade86cfdd99ae632ad33f48a5d7bf4",
+"jugadores": 11
+},
+"407": {
+"antes": "08900deb0f07a249521a108f902a489dc807645c7c11b5295ca50d56e5f925c3",
+"despues": "783bc2004d3242252f6518f82c6a4836db30661a3c30cea792cf7f1626ec717e",
+"jugadores": 19
+},
+"408": {
+"antes": "bba46dc9782665841b51283bb4acc529b60d4c4ef23855ee395a3b3d080d5b95",
+"despues": "ac61a19e70c2b4d7ebec5d89b0554c9c688880f43c92233965bfd507cf82670f",
+"jugadores": 11
+},
+"409": {
+"antes": "db3d88302b6ecb7e8c5d64127f17d34a0a921ab044baf6a9d04b7300b9310024",
+"despues": "a535b0a7ec47b197a8950af2fa70ec24f6daebf0d3c147c8f2a6bce87a408c01",
+"jugadores": 16
+},
+"410": {
+"antes": "2bc6864aa0b14d458b140712bdc5cb16c23016fcf6940f7ec2eb72335adcf095",
+"despues": "4f817def6f65605d1eed4d5c2e03ce543425ac963ccf6efe720c1fe1aa1d7a93",
+"jugadores": 18
+},
+"411": {
+"antes": "b2c446ee184f5840b62dfb8173dfe0f03b0c44669fc262d4a09c647048c43a43",
+"despues": "10988ede39f3995efaaf703ab82319565b5c182bd673e0638cf857860d0bfa1a",
+"jugadores": 10
+},
+"412": {
+"antes": "206013d57b2150e72655d7c4d20951093295f0ee3f541033d7115c51c285d8b9",
+"despues": "d7f552fd6de97fa6da1e6edbbcd46c029cef26c14f89436d50eab280984c544b",
+"jugadores": 4
+},
+"413": {
+"antes": "584127b0bbfa2e8e2c8af01ddd87b86e8ba2ded395b4344da7cde7283d204564",
+"despues": "963bd1e67fc256364dfc691b0a5aa307a422967f4163646e4edd96d45dbd0ee3",
+"jugadores": 16
+},
+"414": {
+"antes": "9e979d9ec8fb92909349bb4da0fc0fff134cd2e20d4302e0f96207bf8995464a",
+"despues": "1490d72d958ab6fd667bf1bba12969a4c050fce12c9b8774a5a944f4eb45c886",
+"jugadores": 9
+},
+"415": {
+"antes": "268ac2800867665bd994299c2dc953cf52366aea28f8101ff49ea5482e4d4012",
+"despues": "6347bc1eeb67b8607fc357bd1a1539097114e1be6b898ef870c433855d29f222",
+"jugadores": 13
+},
+"416": {
+"antes": "f84fe624988bd4f11528cf1d229fd1b7eb130430d11bb293c5b0cf7b74698eaa",
+"despues": "1d75eda364f9d7efd811c4d50ff6a9f7fccacc57ab2b0481a6af411287e1dace",
+"jugadores": 10
+},
+"417": {
+"antes": "42e055a9582fd444ea608f2596ede9f2be19ed69f878e1a5bd2809f6b369c07c",
+"despues": "52578d7673b8503b957c763973e98a5f8a7b277f5e3baf3a58d2e0f6bfde1c36",
+"jugadores": 12
+},
+"418": {
+"antes": "36aefdd496dcbb49c296b22dd7ba4137d090666140fb9a0e4382188d65d15831",
+"despues": "18b9c16ee81d61e7f1f94e605172c45a304a140c87c65fd28dbe9e66151938b3",
+"jugadores": 11
+},
+"419": {
+"antes": "dd6e42709416ccb864a85d4d406a8438a8e90bf9c45257ac6bc22fd3ecbb4c0f",
+"despues": "98c9ed641b01ec005f649646962c0051af65cc9c779697bd22a61c3eae08b0f3",
+"jugadores": 6
+},
+"420": {
+"antes": "89239a5682190b95440fd55636b7c00942c003fa210cb7e66e2e12c8f7176556",
+"despues": "2ccd38e36b406320cb220f336b4133c2d6971be6761db4844447d7ff3dfa5806",
+"jugadores": 12
+},
+"421": {
+"antes": "4cbfc6fa78a87a56433b1ae7b84a09300175167b294b8b8dbc1b8fea0c812a97",
+"despues": "3644a0437d86c4cb5b90e820b847e2bb1ea2d6453c78bd117275c977bbb98e13",
+"jugadores": 9
+},
+"422": {
+"antes": "044369cf44abba611e16227765a186e41de3783c206efc30ac63dda819247810",
+"despues": "5bf6f50ad0f749cb8324fd206975130225ee8688944958d0fb70646b6f55ec46",
+"jugadores": 15
+},
+"423": {
+"antes": "f6fada5130a39f551758d9663b5d2e67fac7c88863b0ff125f026a342fc2c33c",
+"despues": "9667034311075d460002c63f2cba0868eeab6d9d2d9ff7b09fce9fbd959a7d2e",
+"jugadores": 17
+},
+"424": {
+"antes": "1710d2c49741b53094d3921918c51cdb3bddb91fc2b1863ada0fa5cea49c4e3b",
+"despues": "64a8e4351de9ddc0dc68e17ab164dcbfab24734fd9561dd04d81d8689e1e64a7",
+"jugadores": 13
+},
+"425": {
+"antes": "dbd0379fb5eec5ef9fafede63bdefa293a6dc855cf165f42beef1a7e5ec7126a",
+"despues": "21bd8fd0be7a0c44d0d575e2b30f68444de1b678bde51914603701ae2876ad0c",
+"jugadores": 13
+},
+"426": {
+"antes": "02b6c48827a09b3a094b71b10086fae45034eda2b7e816c18b70790b6fec8726",
+"despues": "a5527bb607402adac3dc0905f96c79b91407546b465adeafc34ad39119552d65",
+"jugadores": 16
+},
+"427": {
+"antes": "be4dad7bb27f45690f259bc9981bfd4c5b31036497ffb04dc9b8c0d7bfeca94b",
+"despues": "0bb1c519124fd6904a347fb020a5c64e27927607b05ac93bd352f32c0dcd1af3",
+"jugadores": 8
+},
+"428": {
+"antes": "036fee52fae0dddbb33c678832567ef73521a6960055f866f4f2691e90fc5250",
+"despues": "2e9feeb52c75ba6963592958a993bd1e3208ea917dfa2dbcfdc12c75cb9b6b19",
+"jugadores": 10
+},
+"429": {
+"antes": "774c435e71d0729441da66dd57a291426b26ac82afe76da33c1c0dda46d20ce6",
+"despues": "9f40f568ff504d5e4e40d7b00da6a7b85e9328417341536390b1c1a80a1bd27e",
+"jugadores": 12
+},
+"430": {
+"antes": "ba068bd70a21e0649dee9279bedb91d800d6ae8537a940ad9dda84de3ba7eef6",
+"despues": "fdf2e72cc66ed0703264183bb6546a12f1528e209b4574f272a3ec0e03f93fb1",
+"jugadores": 15
+},
+"431": {
+"antes": "ca122f6acbe849ca67fd9a341780d4ef338beb58ff36801b997483305cdbfc69",
+"despues": "847f054d670de8db941668d8c4c093997b49a70fe363a2a54e744cb824c4b181",
+"jugadores": 12
+},
+"432": {
+"antes": "ef51250ed1504104f49b8ffc3a2cdb8b09081c01089b1a965ae5dd96d7a4662e",
+"despues": "50a340ff82585e7d088cdabfc67a5982bb3fff40f8d46ab7aded7928a2ad15bb",
+"jugadores": 17
+},
+"433": {
+"antes": "de65dd3e68dd102cc68902c8003be61eb2230ca0bd8e2e918530fa9051a0ef11",
+"despues": "94806e30793a0f9e05d55c2a716d1c9624151a1a20df0bdbac92a3e26c23e5b0",
+"jugadores": 14
+},
+"434": {
+"antes": "af29b42f62d627fdb903d671ec46fdf19d3317d61033f2b4e2667aef4a27e88c",
+"despues": "8f894e22751855cf0c8c6854fd04f2972716ad25cf19936c0f0d6a940db93935",
+"jugadores": 7
+},
+"435": {
+"antes": "8285dbf1de48ed8cb36ad7e0564b87a166301c4fd94d27cae4de88a49774f2f2",
+"despues": "0dbf2a0b82fb39bbf92c7eb3b65695422cf1ebac4c984f4595d6316c86c03436",
+"jugadores": 15
+},
+"436": {
+"antes": "0825cd2ff8d41fde95e1d9363f270cc8ad5a950835499cefbfbf18c77832ccfc",
+"despues": "5870334b7c0fa6afbeb23fc5ec7aff44c4da8af6ab296533f67c77380e4bd275",
+"jugadores": 8
+},
+"437": {
+"antes": "11c3a57b8f9ba051c870c30fca435def08beb4c327d39796aaa3d8bd7b51ed3b",
+"despues": "60b02c11e17ba2371b50a2469176408fb4e5f0a211c91b249c0c4e32f3e82ca2",
+"jugadores": 17
+},
+"438": {
+"antes": "eb44c642c83a110eb19f7ddd32c7b0d14dc6410f0a0476c13286f673d08332a1",
+"despues": "1a8142da21d7194d26540625e38dfcee5fa720bc1f74de55635899bb0b98922e",
+"jugadores": 12
+},
+"439": {
+"antes": "ff30b52cb86216b53a716ae6422edf9cd94c5f57d8cfc7cc9c63e01858ddf502",
+"despues": "cd56a5cf6fd2e64a316782c9eb916bc74adcc6be2cf75da82f2b3c563a9db277",
+"jugadores": 17
+},
+"440": {
+"antes": "9554624eb92d382371187f3c81a6dbe3d5651eff609479647117921993f4cdcc",
+"despues": "91e74b0bfae38bcd57287bbdd5a0f3bacf19a8b435188f3dc5134156df80fbbe",
+"jugadores": 13
+},
+"441": {
+"antes": "8fdfd792cb90d95fe185f28efb16c242737a52f3c23c97d205c1ecb4a97767fc",
+"despues": "9b2d19c42943d07501b639ebcb9649c3fc973768c1d34d2c36d278446e3fd2c7",
+"jugadores": 6
+},
+"442": {
+"antes": "cd49ad161a99f9a6ada1fe5479897dc7c8418a8c62c0a00a1c88f95ff4c04896",
+"despues": "3a16c329812a9e91eb139326d2677c08fa61b5ecc64f236a90ae053d39efa65e",
+"jugadores": 12
+},
+"443": {
+"antes": "20bcc35c45bd60baf70f569f5f2147530dffa1bd4dc2da0f5838ec702f3bc7df",
+"despues": "e25e691f180be9c1e4875e4fabb142f8ccfa059479b8a69867ecff39fa59e9e6",
+"jugadores": 18
+},
+"444": {
+"antes": "8c7edbca477d1f3535cc59172ddaafafca0db1ca15aaf169b5c006c0c030d8ec",
+"despues": "7e842f24df08dd53f9e12ea792a0226dd361c527f19957d30b869ae0133f2c29",
+"jugadores": 15
+},
+"445": {
+"antes": "169bb522127d3cbd01371214dbfecdba0356ede5971b61a86d8790c47f2800cd",
+"despues": "cdaf115f72c4999a8977d0759d0b94fc734b1fc30198e1af449ee7bed86d1532",
+"jugadores": 10
+},
+"446": {
+"antes": "7e3a4c32654918a055f5007a37af837518f429ca0b3c96f307ecb29396ffd07f",
+"despues": "8c8db3baa19aa794c01db148787aea8abd46eba7fcaf4f1fe9e58035388ee97f",
+"jugadores": 13
+},
+"447": {
+"antes": "3bc7ac4b81ee61066dcd966e2dfcade7971c6eed6831c3eb305210227f75226a",
+"despues": "aa4938d0337ecbafc4c09090e264d36070a27d105dbadd55d255263f82e53dbf",
+"jugadores": 9
+},
+"448": {
+"antes": "ad5a985bd8895c31e4081b519c2cb5b6fdcd143be33c8f0beb6764def5c1b524",
+"despues": "794017e68d5c40a5d0b0a7c97de3f6465448f11556784b6726af372547e4e372",
+"jugadores": 15
+},
+"449": {
+"antes": "f915489edd2cfa5fe7ed5c091694d6e462a9d5cfb2e6bf524c439d345dd502ac",
+"despues": "058a8e59113e7198f7279faf71ec7ce98bc9121a500dec0c79a3a3aac1216bc1",
+"jugadores": 12
+},
+"450": {
+"antes": "1253f20d99e488a834465cf3f07f2243cf54e129de68b6a1041595c5dc65fba1",
+"despues": "51301d19c7ee655b1aeaa4b7a35dfd91518b75508388420b6cb6e2474083ed9c",
+"jugadores": 11
+},
+"451": {
+"antes": "372465512a5ddcc342b1696ce95ca4b02be59f21e4c7a14c2d391e6f1a655071",
+"despues": "a2347b09aa0850d06b61ba1515752f507a3b6cd68a382972f6a10f759183ddea",
+"jugadores": 7
+},
+"452": {
+"antes": "6cbbf35c972a8bff2d90a530e22fc1cf03af0d55fee2ada1772b6023f8c80752",
+"despues": "d59a78493d625b7f82404a19245f751927f84fa8628f0a884cd0eb8707c93a45",
+"jugadores": 17
+},
+"453": {
+"antes": "41f2b0c6ab208c38d3ba64c5cc6948d51d4632e37a721417235aaf566d5e40d8",
+"despues": "1bd5cf71dfdecb5b16c7d6cb8ac9d3ef7c99d3f3c26ac5dc0e13c5e5fd3cf439",
+"jugadores": 12
+},
+"454": {
+"antes": "e37cb48a9e27396273085ab34afb0aad1e389671bbce3eb637ac19fe7cfb8406",
+"despues": "db12e29231bad7aaa878152335536eb5d0f97014b2743f19e7e9d35938c8902b",
+"jugadores": 16
+},
+"455": {
+"antes": "5b4ed5c5fa6979a3f3020e0f2daed61c4cd8a0b6a6639f2952f9feba06f51bf0",
+"despues": "94b28d0998560bb3df8e53223b847c3010460e76852bee0c159583cea8379ebb",
+"jugadores": 10
+},
+"456": {
+"antes": "1e03022dcf3e17d0699d1e0f70afa088281ff0d4f176cdda7062cf01f92539ef",
+"despues": "88b4b9e484118a441f78f609ca34014228d2dbf1c29de2a4a553804e1b3e6940",
+"jugadores": 12
+},
+"457": {
+"antes": "68b744b27915f7dc97e49791e8d573111629a15fb6470f7f63a9cd23a1584e66",
+"despues": "d824205e51be485e2281440cebf2944cc1a8888a20c61a7935a120d379d08a9a",
+"jugadores": 14
+},
+"458": {
+"antes": "efe6c9a1485970d5a22830ffae1e14459c121f394f86c08e5d579db988de7020",
+"despues": "da459b8a10121fd6620fddda8206152282ef7859a9235f00be183ae9acd49b51",
+"jugadores": 16
+},
+"459": {
+"antes": "cc8d5bf39845f6be6ec7bedebeb0bc9c2f2619760931be6788856f350bd7a2a6",
+"despues": "0a7b3ec634b9521f8476fb55fd663e26701e53c1c32e614334e31d0074554dce",
+"jugadores": 15
+},
+"460": {
+"antes": "5bac80083258fa31d7a92aa1d6a29238681321083c8320f1d5e1a6e0de2a14be",
+"despues": "148b0830a0ea532f6c4f359e7e87c663b6c0c101fbc1380355c1aafa3a4b90ea",
+"jugadores": 10
+},
+"461": {
+"antes": "72c1a9f575d49896f42e154efe98506e333a69f1c7d0254a49d227751b4f6a1d",
+"despues": "bc276cf1ee0ad8ec86a6843023256efb58459137a78e49c78beb61b61838368f",
+"jugadores": 13
+},
+"462": {
+"antes": "9a7a918f6e9a413af16421c836f251bf840150b26e143029aca02f69b0bbf039",
+"despues": "86feff97b70bf921ad0f26172a5af05d70f6ef6aa79648a1eea4e8763ead224a",
+"jugadores": 14
+},
+"463": {
+"antes": "712ce2e664402850745e0d7a31ff944785c61700f9ddb5fab81683d95ca15321",
+"despues": "3a73ccd45ad25de31d135e4c7048444570818bcad3a45037a61c585a3cbc50d3",
+"jugadores": 9
+},
+"464": {
+"antes": "27d7e0ca300c0148d86a556eddd7a45fadd279bcf6a2753f2aa3033f912535f7",
+"despues": "51a5c6bb46e1624853f87122440d68633df6ff17b98c9e6a48345fcadce72b66",
+"jugadores": 16
+},
+"465": {
+"antes": "6d5c07cc529cca5b83275f9b0e571971f3901c9435d3a5d22ef62f21bffac313",
+"despues": "e4ca093b7ec326cdf764a99190efdc812292cab93c21c1b6554b89b9feae1430",
+"jugadores": 13
+},
+"466": {
+"antes": "f618338e41873303b43a7fe70305f52dcb9e9e99fb2908659b5a85cd86557d29",
+"despues": "f1616effc971f28c4a98ce3de5baafeb528cb18bba4cda3eba50588a6612eda3",
+"jugadores": 11
+},
+"467": {
+"antes": "924ef444fa8d148b1c038421f4593c262b232fd771d04c52380fc51f102a1852",
+"despues": "0c75f28178a34fc305689511edcdb85cd7e39bbae891b4168a6a8f7b7e8e168c",
+"jugadores": 18
+},
+"468": {
+"antes": "989a2b4e96ff5f6581fc558b5ff3c26c500bff83413264156d7b8b3a05fa0bd3",
+"despues": "df1a70cc307175f8fc296ac8db47840710d4bdcfd055e6cc4679f0b8a321834a",
+"jugadores": 13
+},
+"469": {
+"antes": "4d5cb9eaebb51f159c7d08f69ddcf1c8b852daecf8a6f53cace9451ba67bd6a2",
+"despues": "b0b435714fff70ee4c109ef44df5cc89910807a9d8c0cd8e509f5f0249ed29da",
+"jugadores": 12
+},
+"470": {
+"antes": "d2f660a5c55f07015942af17ae3b95b4d6a45da35df4f4bb5781d4392d9edad0",
+"despues": "173153237101dab79d84c601e9fc0f4d0bc3faf5e080cc6b43eec04af644f0c3",
+"jugadores": 10
+},
+"471": {
+"antes": "dec603102891e262de04bb1a97f5163303be339a83a4766c12865723c6b81665",
+"despues": "a77ac9ca1b8515722eda461551d571dbaea95d31b1520b9611dd1e897d150400",
+"jugadores": 8
+},
+"472": {
+"antes": "0bfabcb08c14579bafd68592de2564312d63e86539ec2c92949e6ebf78d3e9a0",
+"despues": "72c570c74e1cc8315772200260a4ee4882d9e1b5a3cdf5f37c6f142648c5f856",
+"jugadores": 14
+},
+"473": {
+"antes": "24a0529bd8866c945d91707699dcccbb8e445ce2ee68e3f87503fc0a7ccbf4f0",
+"despues": "d3d4d3ae6136ee4812e01f4ca8d199fd8562c59373d3a840afe02ea90554e8a3",
+"jugadores": 10
+},
+"474": {
+"antes": "c1e6188657f77c87e859ea7779c2d0205dd1a570f55f0eabb7f5d171835c9a9e",
+"despues": "a65fd8a2cf7fbda8edc0423004b81add9697638eb1d2b8fc803c7de5e627ffe1",
+"jugadores": 9
+},
+"475": {
+"antes": "7c5c373424a0287ff33e3fdf873260febeeb920828bb64a4d82a9082c794cdf7",
+"despues": "c1d0cbb7944d9df069aac606ef05130360cb90f2c2f8f7d5c48e6dc7cb2f61e2",
+"jugadores": 16
+},
+"476": {
+"antes": "43f3a1af2e0587d18693557969f1475f8316d51ea84f2e287c28292fd9d3113e",
+"despues": "2bc6ddd4c395f6d0916eb3da5da223952d5c16d0ef53b7f36a8ca83881df7197",
+"jugadores": 5
+},
+"477": {
+"antes": "ac38cffdc27adaa4b941df891a8bc0f84e5c4a11e36fcaf6c1ba2395e168ba24",
+"despues": "824ffba2d238cc3f8a09176f7ea2b2cd33d3fabcbd32510fab2440258c77c90c",
+"jugadores": 7
+},
+"478": {
+"antes": "855910ab22ed2888b588437862bc662ba4f9c09d9dc901f201a611d941751879",
+"despues": "ccb195e73cfed0aca7f607f52f5ee5e8ee3d04f65775aa4a9d13671c71642536",
+"jugadores": 14
+},
+"479": {
+"antes": "0828b894b440b4859ffefbd8ab6f0d4ba410d9b1e39c607485ce1627a83788a7",
+"despues": "a75e3ef965643976e125b2297e2558c1ddf31942e19a0d97f17117a6beddeff7",
+"jugadores": 12
+},
+"480": {
+"antes": "4918278283043e6e4764190491cdbc12f54e17c7c9c0b10c50b3a1785c449ee9",
+"despues": "452d4178ea1da53925f238950681b8f407101b41042a10bcb490cebcfd17de7c",
+"jugadores": 9
+},
+"481": {
+"antes": "36373a17736071d03510bd1b222ea3ad59f4098b455f3d5a726d1ca2430c3eb5",
+"despues": "6ba52b5a2c377684af20946bd0e6ee2f0e3938ee52173978e9e68da4f716f0cd",
+"jugadores": 17
+},
+"482": {
+"antes": "d06f22fe0e3d5068ecc68ac0b83b850ecd2655713456c7e1fa30ccea00d66612",
+"despues": "01d111c3b62fe69c3ae3eb72e9ec3df2c1c04dd68b5552a17083ef3f0fb2242b",
+"jugadores": 12
+},
+"483": {
+"antes": "f2303ca1d6c971470071ccb85b662ffc42a7d9ade49294c65f88f78c9214a3ed",
+"despues": "556e7db703f6d632cb29f8e4166746c6c5bce375784154f69159532910c9e664",
+"jugadores": 9
+},
+"484": {
+"antes": "dacc231ba0900b7a73c866f65b794d10772759ca5ec07033038a4d5e3b79472a",
+"despues": "4ddb2259ee6466c1c6468a1e3c46733a1b1a197fa289003ab1dd6fc652785a76",
+"jugadores": 11
+},
+"485": {
+"antes": "a3877284e6834480b86617d2b6596b3a393450e4c0f86e640ff53501813ddf5e",
+"despues": "b278fb182df1b55c5b4412bf93268bbfee13be6b2d3e2969d409bdb991dc8bec",
+"jugadores": 17
+},
+"486": {
+"antes": "2604dbca9233a4fbcde938e18637106a48ad740f4b59bf74cc7d105be66ecd8f",
+"despues": "5164e5e06aacd9e392cd2fbd252ced504dfc3e3b0ed1048037d13a86ae49e0ae",
+"jugadores": 11
+},
+"487": {
+"antes": "3ee73cc839cf819d6bd471b18cd1d3fda03edd4ad767bda5dd08671c2eb7b58e",
+"despues": "fb2ccfcd25556750d750483dbeb51143c8a09789f13c536c88c3f5551e2f17ba",
+"jugadores": 9
+},
+"488": {
+"antes": "2894bdd59554df46e0fe3faeef116a921cabfe4c177704aad2ad83976a435767",
+"despues": "284fcefcf8741d8cb1fdfbc2f560ae7c719523042cae5b3cb7e03bb3f6104251",
+"jugadores": 12
+},
+"489": {
+"antes": "c3ae49755e9280a5b9ed4a9c104508db420ab345ce3e8d1b809027b4f92b2099",
+"despues": "0ca1a598e7066e440bd54c78d726746354d6863b4a677c2bcdff62f7e272cfc6",
+"jugadores": 12
+},
+"490": {
+"antes": "2633709f19136db0e9e99ee7d2f0b76eccbeaf8d14ed4915bf51b0420a38b1e9",
+"despues": "2ebaeea3db55fe44c56dc7af929e7478ebe22c4ce206af59c03e17dc879e149d",
+"jugadores": 12
+},
+"491": {
+"antes": "a1a2cf5c89811c473b9f4f73dd476e847402dedb412978650f79f4bb8028af8e",
+"despues": "1b7686beab7b5f9f64d706554f4fa70a9953e6fb6591af939b81617bdbb14dbb",
+"jugadores": 15
+},
+"492": {
+"antes": "9f93f033afbd032fff2e4e8c8571a498cf7ee0020a5ae8f46cbd3518db43dc53",
+"despues": "165410d2a2dd053cd37c064106245a99319c14323e03973c01537adc1084af94",
+"jugadores": 8
+},
+"493": {
+"antes": "1785b5a283a4a31a99393d041316b39c5c5413cb477f5a273fed0c4d644e82db",
+"despues": "4e5aa946a95f4af6c4a227065414b652fd954d1416cc84fb305d0ad3204b11c3",
+"jugadores": 13
+},
+"494": {
+"antes": "192b11dcfd2806546e8ac0ee2a33f933ea499d46ceb113f2aaa9d87f3c519d6a",
+"despues": "5125491a11aeb98e5b391c2ecafc44be1fed300ad449483c08d2e3df8d7e4574",
+"jugadores": 15
+},
+"495": {
+"antes": "59052721d1c8c7c693ad02f65ca2d47ee56876b6de6d2d11940c76bea3a06cc6",
+"despues": "63682daba7900ec140495e4440f1544160609c93c349e6118782894a00828ee8",
+"jugadores": 11
+},
+"496": {
+"antes": "5347a0058d42089e053e97d04cfe056a651459883a602aed692a29257aae4e72",
+"despues": "a0ca8bbdbeaedee323eb401a33d8e218921af875425fd9e219417d3fd1b41a69",
+"jugadores": 9
+},
+"497": {
+"antes": "68d4215cbb16e40be4999015a73b06474db007d28045eb25a1edfaa2ffa7066f",
+"despues": "9d9ba6f54b5227e1b7351d8f9543d94d1a968c397a3b2aea24a9d37ab3c78092",
+"jugadores": 20
+},
+"498": {
+"antes": "33917f882d7add8a3ffc693b47330338d033f6003964009ab592cc0c2d65b368",
+"despues": "952b0fde5ae0bd7d6307107377fec48750640b0a36b18482837f8b2caba7298e",
+"jugadores": 14
+},
+"499": {
+"antes": "1797e7425f6e4a4194181031e282ce6af344829982a2fcc069cbfc755921583a",
+"despues": "ff7984821aa6b4c15119ca11c642a471313a3e8fea796942d0e745a70707d5fa",
+"jugadores": 12
+},
+"500": {
+"antes": "e15dfdfbedaf4380548be3f4adb4d93cda198587bd6e1f27a4b7db57843ddd20",
+"despues": "d0a1f4ffd0fe0fb2fe3ac8208e29c4a5aae690e302beb21ff0260d2210b60474",
+"jugadores": 20
+},
+"501": {
+"antes": "283e1f21f532b2b97edfe59401036a5060192d3f852a228e57743b566c7f49e7",
+"despues": "352eefa30553d1bf26c0f0aa77a49881c967151f72e033c370749faf2af17e3d",
+"jugadores": 12
+},
+"502": {
+"antes": "01b9b7585ec846ba5a5de01fffcec64d89084ac0c320d56fb33e495e97d6e890",
+"despues": "1482e4320de636b96ca9745459dd66e387f229e804555c862af10df6b5df0f5e",
+"jugadores": 13
+},
+"503": {
+"antes": "0a80eaf54904af52ac8baf5a62f32a5b27ebd54e751017eb446645434ad8113c",
+"despues": "a4b5e65b8130a5895ae12c88cdd663653a74de8254052d5578610d697d421db1",
+"jugadores": 12
+},
+"504": {
+"antes": "3ed74bee9683aae4ad1f7088d146a078ff62069ea5ef25831ef3893a5f0bfbd8",
+"despues": "953e29e1c244963b622398324618e83559364931c2237b25ed011da1ffd4f083",
+"jugadores": 11
+},
+"505": {
+"antes": "0fa0796ea2622c1dc6c24083cbf18d13031f064edfd7426ea78a6fb9e3562817",
+"despues": "81cf5fbc65b187c8987803cb8c6858b4764ed63bf3a29d47a71fef82d36eddaa",
+"jugadores": 15
+},
+"506": {
+"antes": "dee436430b8d1174fd2e9e5be5e5fcd48b32bc082a918064919fc1d3bbf5ced2",
+"despues": "53b89d475ece166c2e1cf7517a9d557e37807761e63b85a0b5fe8837f7b0f20b",
+"jugadores": 16
+},
+"507": {
+"antes": "ee313a3abc5e3115c00e9d7fc55e789aa325c7a44301b75c91f28ddf027b18dd",
+"despues": "4a7a6e083823cd4d26feb23e24cbe76fdac4cd7e0f9dbad618f7cabbc5e4bb5d",
+"jugadores": 18
+},
+"508": {
+"antes": "2b46fbe2e94de31bc4b5bd6b30e741dd5729da896476b000a582ea274a5693c5",
+"despues": "820d2a3f737a285beda66161673669ec9ac185b74cdbd834d5377f55de2b758b",
+"jugadores": 17
+},
+"509": {
+"antes": "1949e69b9edcfde87e38f5baafd12e44906de4f4e785394974c43c5631225115",
+"despues": "ff99985a12a462af3f6413d497a2127a6966342f155a51ac700ebabcb700d277",
+"jugadores": 16
+},
+"510": {
+"antes": "6070be8055eb4cefde3a16c3a1906341d3f9fcdbc94ff609db1470c39aae9b7c",
+"despues": "5114e50eebd593649141aea754169be6a2aa1e5c03ccd161fc951fbb28be8294",
+"jugadores": 11
+},
+"511": {
+"antes": "275c62b6df55a658ed33c891ac10f7f03da92136c3842bea54758cf1775eaf50",
+"despues": "e507eae6552ee9c981816ab3e96c7a07f46c22bdaa636fc7111d63fa3aae5a83",
+"jugadores": 11
+},
+"_resumen": {
+"h_sin_bb100": 3861,
+"niv_sin_bb100": 3861,
+"h_m_exacto": 4769,
+"niv_m_exacto": 4769,
+"con_periodo": 2878
+},
+"_version": "meter_manos_winrate v3 28-nov",
+"_script_sha256": "c801fb8cb51da601a0e8bf7a22b9cdc4fd3c4e3739325140fe1b91050d3542bd",
+"_base_sha256": "ffdab60f35153aa0a5e9388cdb34a0c9814efabe34bdb761b0896a2c7c303b70"
+}
